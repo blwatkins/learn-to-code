@@ -6,6 +6,7 @@
 xcode-select --install
 brew install openssl@3 readline libyaml gmp autoconf rust
 brew install rbenv ruby-build
+rbenv init
 ```
 
 ## `.ruby-version`
