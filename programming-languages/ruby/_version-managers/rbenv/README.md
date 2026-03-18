@@ -37,7 +37,7 @@ rbenv install [VERSION-NUMBER-HERE]
 
 ### Example
 
-As of March 2026, the latest stable version of Ruby is 4.0.2.
+For example, to install Ruby 4.0.2:
 
 ```shell
 rbenv install 4.0.2
