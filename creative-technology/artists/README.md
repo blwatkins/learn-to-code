@@ -1,5 +1,3 @@
-<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.0.0/css/all.min.css">
-
 # Creative Technologists and Artists
 
 The artists and creatives listed below utilize technology in their work, whether through digital media, interactive installations, or other forms of creative expression.
@@ -34,7 +32,7 @@ This list is not exhaustive but provides a starting point for exploring the inte
 
 ## Jeff Koons
 
-<a href="https://www.instagram.com/jeffkoons/"><i class="fa-brands fa-instagram"></i></a>
+[![Instagram - Jeff Koons (@jeffkoons)](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg)](https://www.instagram.com/jeffkoons/)
 
 [Jeff Koons](https://www.jeffkoons.com/)
 
@@ -56,7 +54,7 @@ This list is not exhaustive but provides a starting point for exploring the inte
 
 ## Takashi Murakami
 
-<a href="https://www.instagram.com/takashipom/"><i class="fa-brands fa-instagram"></i></a>
+[![Instagram - Takashi Murakami (@takashipom)](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg)](https://www.instagram.com/takashipom/)
 
 [The Broad - Takashi Murakami](https://www.thebroad.org/art/takashi-murakami)
 
