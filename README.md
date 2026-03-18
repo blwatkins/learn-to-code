@@ -2,4 +2,10 @@
 
 Notes, guides, resources, and references for learning software development and creative coding.
 
-Copyright &copy; 2026 brittni and the polar bear LLC.
+## Recent Articles
+
+[What is Code? An Introduction to Programming](code#readme)
+
+----
+
+Copyright &copy; 2026 Brittni Watkins.
