@@ -11,11 +11,13 @@ brew install rbenv ruby-build
 rbenv init
 ```
 
+The command `rbenv init` will print instructions on how to update your shell configuration file (e.g. `.bashrc`, `.zshrc`, etc.) so that the shell initializes `rbenv` when you start a new terminal session.
+
 ## `.ruby-version`
 
 Can be used to specify required Ruby version for a project
 
-## Print the Current Version
+## Print the current version
 
 ```shell
 rbenv --version
@@ -27,7 +29,7 @@ rbenv --version
 rbenv install -l
 ```
 
-## install a version of Ruby
+## Install a version of Ruby
 
 ```shell
 rbenv install [VERSION-NUMBER-HERE]

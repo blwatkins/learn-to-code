@@ -10,7 +10,7 @@ Created: Wednesday, March 18, 2026 | Last Updated: Wednesday, March 18, 2026
 brew update
 ```
 
-### Upgrade Homebrew Formulae
+### Upgrade Homebrew formulae
 
 ```shell
 brew upgrade
