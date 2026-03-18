@@ -1,5 +1,11 @@
-# learn to code
+# Learn to Code
 
-Learning resources and notes for various programming, software development, software engineering, computer science, and creative coding topics.
+Notes, guides, resources, and references for learning software development and creative coding.
+
+## Recent Articles
+
+[What is Code? An Introduction to Programming]()
+
+----
 
 Copyright &copy; 2026 Brittni Watkins.
