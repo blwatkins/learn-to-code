@@ -7,8 +7,8 @@ This list is not exhaustive but provides a starting point for exploring the inte
 
 ## Carvalho Bernau
 
-[![Facebook - Carvalho Bernau (@carvalho.bernau)](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/facebook.svg)](https://www.facebook.com/carvalho.bernau/)
-[![Instagram - Carvalho Bernau (@carvalho_bernau)](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg)](https://www.instagram.com/carvalho_bernau/)
+[![Facebook - Carvalho Bernau (@carvalho.bernau)](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/small/filled/facebook.svg)](https://www.facebook.com/carvalho.bernau/)
+[![Instagram - Carvalho Bernau (@carvalho_bernau)](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/small/filled/instagram.svg)](https://www.instagram.com/carvalho_bernau/)
 
 [Carvalho Bernau](https://carvalho-bernau.com/)
 
@@ -34,7 +34,7 @@ This list is not exhaustive but provides a starting point for exploring the inte
 
 ## Jeff Koons
 
-[![Instagram - Jeff Koons (@jeffkoons)](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg)](https://www.instagram.com/jeffkoons/)
+[![Instagram - Jeff Koons (@jeffkoons)](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/small/filled/instagram.svg)](https://www.instagram.com/jeffkoons/)
 
 [Jeff Koons](https://www.jeffkoons.com/)
 
@@ -56,7 +56,7 @@ This list is not exhaustive but provides a starting point for exploring the inte
 
 ## Takashi Murakami
 
-[![Instagram - Takashi Murakami (@takashipom)](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg)](https://www.instagram.com/takashipom/)
+[![Instagram - Takashi Murakami (@takashipom)](https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/small/filled/instagram.svg)](https://www.instagram.com/takashipom/)
 
 [The Broad - Takashi Murakami](https://www.thebroad.org/art/takashi-murakami)
 
