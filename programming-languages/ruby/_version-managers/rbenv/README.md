@@ -8,7 +8,7 @@ title: "Ruby - Version Managers - rbenv"
 
 # Ruby - Version Managers - [`rbenv`](https://rbenv.org/)
 
-## Installation with [Homebrew](https://brew.sh/) for MacOS
+## Installation with [Homebrew](https://brew.sh/) for macOS
 
 ```shell
 xcode-select --install
@@ -27,7 +27,7 @@ Can be used to specify required Ruby version for a project
 rbenv --version
 ```
 
-## list latest stable versions of ruby
+## List available Ruby versions
 
 ```shell
 rbenv install -l
