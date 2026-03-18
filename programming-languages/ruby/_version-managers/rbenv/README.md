@@ -19,7 +19,7 @@ Can be used to specify required Ruby version for a project
 rbenv --version
 ```
 
-## list latest stable versions of ruby
+## List available Ruby versions
 
 ```shell
 rbenv install -l
