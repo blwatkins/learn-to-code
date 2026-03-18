@@ -1,5 +1,7 @@
 # Creative Technologists and Artists
 
+Created: Wednesday, March 18, 2026 | Last Updated: Wednesday, March 18, 2026
+
 The artists and creatives listed below utilize technology in their work, whether through digital media, interactive installations, or other forms of creative expression.
 This list is not exhaustive but provides a starting point for exploring the intersection of art, design, technology, and creative practice.
 

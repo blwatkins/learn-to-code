@@ -1,12 +1,6 @@
----
-layout: post
-author: Brittni Watkins
-date: 2026-03-18 18:00:00 -0000
-modified_date: 2026-03-18
-title: "Ruby - Version Managers - rbenv"
----
-
 # Ruby - Version Managers - [`rbenv`](https://rbenv.org/)
+
+Created: Wednesday, March 18, 2026 | Last Updated: Wednesday, March 18, 2026
 
 ## Installation with [Homebrew](https://brew.sh/) for macOS
 
