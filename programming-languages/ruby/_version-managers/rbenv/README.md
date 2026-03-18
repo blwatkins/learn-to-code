@@ -1,6 +1,6 @@
 # Ruby - Version Managers - [`rbenv`](https://rbenv.org/)
 
-## Installation with [Homebrew](https://brew.sh/) for MacOS
+## Installation with [Homebrew](https://brew.sh/) for macOS
 
 ```shell
 xcode-select --install
