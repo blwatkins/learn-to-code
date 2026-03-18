@@ -7,8 +7,8 @@ This list is not exhaustive but provides a starting point for exploring the inte
 
 ## Carvalho Bernau
 
-<a href="https://www.facebook.com/carvalho.bernau/"><i class="fa-brands fa-facebook"></i></a>
-<a href="https://www.instagram.com/carvalho_bernau/"><i class="fa-brands fa-instagram"></i></a>
+[![Facebook - Carvalho Bernau (@carvalho.bernau)](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/facebook.svg)](https://www.facebook.com/carvalho.bernau/)
+[![Instagram - Carvalho Bernau (@carvalho_bernau)](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg)](https://www.instagram.com/carvalho_bernau/)
 
 [Carvalho Bernau](https://carvalho-bernau.com/)
 
