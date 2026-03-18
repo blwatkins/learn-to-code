@@ -1,5 +1,5 @@
-# learn to code
+# Learn to Code
 
-Learning resources and notes for various programming, software development, software engineering, computer science, and creative coding topics.
+Notes, guides, resources, and references for learning software development and creative coding.
 
 Copyright &copy; 2026 brittni and the polar bear LLC.
