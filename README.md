@@ -4,7 +4,7 @@ Notes, guides, resources, and references for learning software development and c
 
 ## Recent Articles
 
-[What is Code? An Introduction to Programming](https://github.com/blwatkins/learn-to-code/tree/main/code#readme)
+[What is Code? An Introduction to Programming](what-is-code.md#what-is-code-an-introduction-to-programming)
 
 ----
 
