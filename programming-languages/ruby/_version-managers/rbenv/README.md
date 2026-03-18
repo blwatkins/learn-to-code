@@ -15,27 +15,29 @@ The command `rbenv init` will print instructions on how to update your shell con
 
 ## `.ruby-version`
 
-Can be used to specify required Ruby version for a project
+The `.ruby-version` file can be used to specify the Ruby version required for a project or directory.
 
-## Print the current version
+## Useful Commands
+
+### Print the current `rbenv` version
 
 ```shell
 rbenv --version
 ```
 
-## List available Ruby versions
+### List available Ruby versions
 
 ```shell
 rbenv install -l
 ```
 
-## Install a version of Ruby
+### Install a version of Ruby
 
 ```shell
 rbenv install [VERSION-NUMBER-HERE]
 ```
 
-### Example
+#### Example
 
 For example, to install Ruby 4.0.2:
 
@@ -43,13 +45,13 @@ For example, to install Ruby 4.0.2:
 rbenv install 4.0.2
 ```
 
-## Set a Ruby version for a directory
+### Set a Ruby version for a directory
 
 ```shell
 rbenv local [VERSION-NUMBER-HERE]
 ```
 
-## Set a default Ruby version
+### Set a default Ruby version
 
 ```shell
 rbenv global [VERSION-NUMBER-HERE]
