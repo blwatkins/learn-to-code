@@ -2,7 +2,7 @@
 
 Created: Friday, February 20, 2026 | Last Updated: Friday, February 20, 2026
 
-## resources and references
+## Resources and References
 
 [W3Schools - JavaScript For Loop](https://www.w3schools.com/js/js_loop_for.asp)
 

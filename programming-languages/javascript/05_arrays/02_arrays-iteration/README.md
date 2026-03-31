@@ -1,10 +1,10 @@
-# JavaScript - Iteration with Arrays
+# JavaScript - Arrays - Iteration with Arrays
 
 Created: Friday, February 20, 2026 | Last Updated: Friday, February 20, 2026
 
-## `for...of` loop
+## `for...of` Loop
 
-### resources and references
+### Resources and References
 
 [W3Schools - JavaScript For Of](https://www.w3schools.com/js/js_loop_forof.asp)
 
@@ -12,12 +12,12 @@ Created: Friday, February 20, 2026 | Last Updated: Friday, February 20, 2026
 
 [GeeksforGeeks - JavaScript for...of Loop](https://www.geeksforgeeks.org/javascript/javascript-for-of-loop/)
 
-## `for...in` loop
+## `for...in` Loop
 
 Although the `for...in` loop can be used to iterate through the indices of an array, it is generally not recommended because it will return those indices as a `string` type, rather than the preferred `number` type.
 Additionally, the `for...in` loop iterates over all enumerable properties of an object, including inherited properties.
 
-### resources and references
+### Resources and References
 
 [W3Schools - JavaScript For In](https://www.w3schools.com/js/js_loop_forin.asp)
 
@@ -25,7 +25,7 @@ Additionally, the `for...in` loop iterates over all enumerable properties of an 
 
 [GeeksforGeeks - JavaScript For In Loop](https://www.geeksforgeeks.org/javascript/for-in-loop-in-javascript/)
 
-## resources and references
+## Resources and References
 
 [freeCodeCamp - How to Loop Through an Array in JavaScript – JS Iterate Tutorial](https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/)
 
