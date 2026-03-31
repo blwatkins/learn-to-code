@@ -2,7 +2,7 @@
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
-Named after the Unix shell Lint program, linting tools check for coding style or formatting errors in source code.
+Named after the Unix `lint` utility, linting tools check for coding style or formatting errors in source code.
 ESLint is a popular linting tool for analyzing JavaScript and JSX code.
 
 ## Resources and References
