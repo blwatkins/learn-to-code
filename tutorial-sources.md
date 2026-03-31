@@ -8,6 +8,6 @@ Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
 [Tutorials Point](https://www.tutorialspoint.com/)
 
-[codecademy](https://www.codecademy.com/)
+[Codecademy](https://www.codecademy.com/)
 
 [freeCodeCamp](https://www.freecodecamp.org/)

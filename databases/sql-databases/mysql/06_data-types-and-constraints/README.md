@@ -2,6 +2,8 @@
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
+## Resources and References
+
 [MySQL Docs - Data Types](https://dev.mysql.com/doc/refman/8.4/en/data-types.html)
 
 [W3Schools - MySQL Constraints](https://www.w3schools.com/mysql/mysql_constraints.asp)
