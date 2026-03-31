@@ -6,6 +6,10 @@ Notes, guides, resources, and references for learning software development and c
 
 [What is Code? An Introduction to Programming](what-is-code.md#what-is-code-an-introduction-to-programming)
 
+## Resources and References
+
+[Tutorials](tutorials.md#tutorials)
+
 ----
 
 Copyright &copy; 2026 Brittni Watkins.
