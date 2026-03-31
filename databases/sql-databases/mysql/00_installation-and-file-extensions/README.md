@@ -1,5 +1,7 @@
 # Databases - MySQL - Installation and File Extensions
 
+Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
+
 To use MySQL, you must login to and acccess a running MySQL server, either on your local machine or through a remote network connection.
 
 ## Local Installation
