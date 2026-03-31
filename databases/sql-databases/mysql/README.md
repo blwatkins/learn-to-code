@@ -7,3 +7,5 @@ Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 [MySQL](https://www.mysql.com/)
 
 [GeeksforGeeks - MySQL Tutorial](https://www.geeksforgeeks.org/mysql/mysql-tutorial/)
+
+[Tutorials Point - MySQL Tutorial](https://www.tutorialspoint.com/mysql/index.htm)

@@ -11,3 +11,5 @@ Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 [W3Schools - MySQL CREATE DATABASE Statement](https://www.w3schools.com/mysql/mysql_create_db.asp)
 
 [GeeksforGeeks - MySQL CREATE DATABASE Statement](https://www.geeksforgeeks.org/mysql/mysql-create-database-statement/)
+
+[Tutorials Point - MySQL - Create Database](https://www.tutorialspoint.com/mysql/mysql-create-database.htm)
