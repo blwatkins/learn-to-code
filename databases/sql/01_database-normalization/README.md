@@ -1,8 +1,8 @@
-# Databases - SQL - Database Normalization
+# Database Normalization
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about database normalization, the following resources may be helpful:
 
 [GeeksforGeeks - Introduction to Database Normalization](https://www.geeksforgeeks.org/dbms/introduction-of-database-normalization/)
 

@@ -1,8 +1,8 @@
-# Databases - MySQL - `CREATE USER`
+# MySQL - `CREATE USER`
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about `CREATE USER`, the following resources may be helpful:
 
 [MySQL Docs - CREATE USER Statement](https://dev.mysql.com/doc/refman/8.4/en/create-user.html)
 

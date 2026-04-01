@@ -1,8 +1,8 @@
-# Databases - MySQL - `CREATE TABLE`
+# MySQL - `CREATE TABLE`
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about `CREATE TABLE`, the following resources may be helpful:
 
 [MySQL Docs - Creating a Table](https://dev.mysql.com/doc/refman/8.4/en/creating-tables.html)
 

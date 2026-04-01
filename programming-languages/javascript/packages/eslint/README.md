@@ -1,11 +1,11 @@
-# JavaScript - Packages - ESLint
+# JavaScript - ESLint
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
 Named after the original Unix `lint` utility, linting tools check for coding style or formatting errors in source code.
 ESLint is a popular linting tool for analyzing JavaScript and JSX code.
 
-## Resources and References
+For additional information about `ESLint`, the following resources may be helpful:
 
 [ESLint](https://eslint.org/)
 

@@ -1,8 +1,8 @@
-# Databases - MySQL - `INSERT`
+# MySQL - `INSERT`
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about `INSERT`, the following resources may be helpful:
 
 [MySQL Docs - INSERT Statement](https://dev.mysql.com/doc/refman/8.4/en/insert.html)
 

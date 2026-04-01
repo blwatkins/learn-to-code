@@ -1,7 +1,7 @@
 # Algorithmic Art
 
-Created: Wednesday, March 18, 2026 | Last Updated: Wednesday, March 18, 2026
+Created: Wednesday, March 18, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about algorithmic art, the following resources may be helpful:
 
 [Form + Code](https://formandcode.com/)

@@ -1,4 +1,4 @@
-# Databases - MySQL - Getting Started - Installation - Local Server
+# Local MySQL Server Installation
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
