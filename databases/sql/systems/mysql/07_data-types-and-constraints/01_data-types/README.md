@@ -2,9 +2,12 @@
 
 Created: Wednesday, April 1, 2026 | Last Updated: Wednesday, April 1, 2026
 
-[Date and Time Data Types](date-and-time/README.md#mysql---data-types---date-and-time)
+When creating tables in MySQL, it's important to choose the appropriate data types for each column.
+MySQL offers a variety of data types for different categories of data, including numeric, datetime, and string data types.
+This guide is not an exhaustive list.
 
-[Strings and Text Data Types](strings-and-text/README.md#mysql---data-types---strings-and-text)
+* [Date and Time Data Types](date-and-time/README.md#mysql---data-types---date-and-time)
+* [Strings and Text Data Types](strings-and-text/README.md#mysql---data-types---strings-and-text)
 
 For additional information about MySQL data types, the following resources may be helpful:
 
