@@ -4,6 +4,7 @@ Created: Tuesday, March 31, 2026 | Last Updated: Wednesday, April 1, 2026
 
 MySQL is a popular open-source relational database management system (RDBMS).
 The following guides provide an introduction to creating, updating, and querying a MySQL database.
+This guide is not an exhaustive list.
 
 1. [Getting Started](01_getting-started/README.md#mysql---getting-started)
 1. [`CREATE DATABASE`](02_create-database/README.md#mysql---create-database)
