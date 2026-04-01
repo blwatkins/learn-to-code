@@ -1,4 +1,4 @@
-# MySQL - `SELECT`
+# MySQL - `SELECT` Statement
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
@@ -7,6 +7,10 @@ For additional information about `SELECT`, the following resources may be helpfu
 [MySQL Docs - Retrieving Information from a Table](https://dev.mysql.com/doc/refman/8.4/en/retrieving-data.html)
 
 [MySQL Docs - Selecting All Data](https://dev.mysql.com/doc/refman/8.4/en/selecting-all.html)
+
+[MySQL Docs - Selecting Particular Columns](https://dev.mysql.com/doc/refman/8.4/en/selecting-columns.html)
+
+[MySQL Docs - Working with NULL Values](https://dev.mysql.com/doc/refman/8.4/en/working-with-null.html)
 
 [MySQL Docs - SELECT Statement](https://dev.mysql.com/doc/refman/8.4/en/select.html)
 
