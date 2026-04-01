@@ -1,4 +1,4 @@
-# MySQL - `SELECT` Statement
+# MySQL - `SELECT`
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 

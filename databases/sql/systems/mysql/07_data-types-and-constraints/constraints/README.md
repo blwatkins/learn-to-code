@@ -6,7 +6,7 @@ For additional information about MySQL constraints, the following resources may 
 
 [W3Schools - MySQL Constraints](https://www.w3schools.com/mysql/mysql_constraints.asp)
 
-[Tutorials Point - MySQL − Constraints](https://www.tutorialspoint.com/mysql/mysql-constraints.htm)
+[Tutorials Point - MySQL - Constraints](https://www.tutorialspoint.com/mysql/mysql-constraints.htm)
 
 [W3Schools - MySQL NOT NULL Constraint](https://www.w3schools.com/mysql/mysql_notnull.asp)
 
