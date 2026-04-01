@@ -1,4 +1,4 @@
-# Databases - MySQL - Getting Started - Editors
+# MySQL Editors
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 

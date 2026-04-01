@@ -1,4 +1,4 @@
-# TypeScript - Packages - ESLint
+# TypeScript - ESLint
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
@@ -6,7 +6,7 @@ Named after the original Unix `lint` utility, linting tools check for coding sty
 ESLint is a popular linting tool for analyzing JavaScript and JSX code.
 With additional plugins, it can also be used to lint TypeScript code.
 
-## Resources and References
+For additional information about `ESLint`, the following resources may be helpful:
 
 [ESLint](https://eslint.org/)
 

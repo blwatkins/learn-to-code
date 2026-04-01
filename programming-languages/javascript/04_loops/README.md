@@ -1,8 +1,8 @@
 # JavaScript - Loops
 
-Created: Friday, February 20, 2026 | Last Updated: Friday, February 20, 2026
+Created: Friday, February 20, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about loops, the following resources may be helpful:
 
 [W3Schools - JavaScript For Loop](https://www.w3schools.com/js/js_loop_for.asp)
 

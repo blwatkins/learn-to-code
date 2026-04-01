@@ -1,8 +1,8 @@
-# Databases - SQL Databases
+# SQL Databases
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about SQL, the following resources may be helpful:
 
 [GeeksforGeeks - SQL Tutorial](https://www.geeksforgeeks.org/sql/sql-tutorial/)
 

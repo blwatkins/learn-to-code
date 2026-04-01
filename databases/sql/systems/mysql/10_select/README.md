@@ -1,8 +1,8 @@
-# Databases - MySQL - `SELECT`
+# MySQL - `SELECT`
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about `SELECT`, the following resources may be helpful:
 
 [MySQL Docs - Retrieving Information from a Table](https://dev.mysql.com/doc/refman/8.4/en/retrieving-data.html)
 

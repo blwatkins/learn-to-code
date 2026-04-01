@@ -1,8 +1,8 @@
-# Databases - MySQL - `CREATE DATABASE`
+# MySQL - `CREATE DATABASE`
 
 Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
 
-## Resources and References
+For additional information about `CREATE DATABASE`, the following resources may be helpful:
 
 [MySQL Docs - Creating and Selecting a Database](https://dev.mysql.com/doc/refman/8.4/en/creating-database.html)
 
