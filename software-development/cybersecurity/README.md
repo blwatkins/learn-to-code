@@ -6,5 +6,5 @@ The following guides provide an introduction to various cybersecurity topics tha
 This guide is not an exhaustive list.
 
 * [Principle of Least Privilege (PoLP)](principle-of-least-privilege/README.md#principle-of-least-privilege-polp)
-* [Cross Origin Resource Sharing (CORS)](cross-origin-resource-sharing/README.md#cross-origin-resource-sharing-cors)
+* [Cross-Origin Resource Sharing (CORS)](cross-origin-resource-sharing/README.md#cross-origin-resource-sharing-cors)
 * [Vulnerabilities and Attacks](vulnerabilities-and-attacks/README.md#cybersecurity---vulnerabilities-and-attacks)
