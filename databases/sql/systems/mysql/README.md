@@ -29,3 +29,5 @@ For additional information about MySQL, the following resources may be helpful:
 [AWS - What is MySQL?](https://aws.amazon.com/rds/mysql/what-is-mysql/)
 
 [Oracle - MySQL: Understanding What It Is and How It’s Used](https://www.oracle.com/mysql/what-is-mysql/)
+
+[YouTube: Brittni Builds - *Learning - Databases: SQL - MySQL* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzOrgzYZpUBQ4S3bY9zs5XQB&si=pfWrbnZtQ7ntotbh)
