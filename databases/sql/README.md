@@ -1,6 +1,6 @@
 # SQL Databases
 
-Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
+Created: Tuesday, March 31, 2026 | Last Updated: Thursday, April 2, 2026
 
 For additional information about SQL, the following resources may be helpful:
 

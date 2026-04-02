@@ -1,6 +1,6 @@
 # MySQL
 
-Created: Tuesday, March 31, 2026 | Last Updated: Wednesday, April 1, 2026
+Created: Tuesday, March 31, 2026 | Last Updated: Thursday, April 2, 2026
 
 MySQL is a popular open-source relational database management system (RDBMS).
 The following guides provide an introduction to creating, updating, and querying a MySQL database.
