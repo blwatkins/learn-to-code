@@ -9,10 +9,11 @@ This guide is not an exhaustive list.
 1. [Getting Started](01_getting-started/README.md#mysql---getting-started)
 1. [`CREATE DATABASE`](02_create-database/README.md#mysql---create-database)
 1. [`CREATE USER`](04_create-user/README.md#mysql---create-user)
-1. [`CREATE TABLE`](06_create-table/README.md#mysql---create-table)
-1. [Data Types and Constraints](07_data-types-and-constraints/README.md#mysql---data-types-and-constraints)
-1. [`INSERT`](09_insert/README.md#mysql---insert)
-1. [`SELECT`](10_select/README.md#mysql---select)
+1. [`GRANT`](05_grant/README.md#mysql---grant)
+1. [`CREATE TABLE`](07_create-table/README.md#mysql---create-table)
+1. [Data Types and Constraints](08_data-types-and-constraints/README.md#mysql---data-types-and-constraints)
+1. [`INSERT`](10_insert/README.md#mysql---insert)
+1. [`SELECT`](11_select/README.md#mysql---select)
 
 For additional information about MySQL, the following resources may be helpful:
 
