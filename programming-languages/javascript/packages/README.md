@@ -8,3 +8,4 @@ This guide is not an exhaustive list.
 * [dotenv](dotenv/README.md#javascript---dotenv)
 * [@dotenvx/dotenvx](dotenvx/README.md#javascript---dotenvx)
 * [eslint](eslint/README.md#javascript---eslint)
+* [mysql2](mysql2/README.md#javascript---mysql2)
