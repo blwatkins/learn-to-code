@@ -8,4 +8,4 @@ For additional information about date and time data types, the following resourc
 
 [MySQL Docs - Date Calculations](https://dev.mysql.com/doc/refman/8.4/en/date-calculations.html)
 
-[MySQL Docs - Date and Time Functions](https://dev.mysql.com/doc/refman/8.4/en/date-and-time-functions.html#function_date)
+[MySQL Docs - Date and Time Functions](https://dev.mysql.com/doc/refman/8.4/en/date-and-time-functions.html)
