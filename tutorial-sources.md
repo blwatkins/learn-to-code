@@ -1,6 +1,6 @@
 # Tutorial Sources
 
-Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, March 31, 2026
+Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, April 21, 2026
 
 The following websites and platforms offer a wide range of tutorials, courses, and resources for learning programming, software development, and creative coding.
 Some of these platforms are free, while others may require a subscription or payment for access to certain content.
