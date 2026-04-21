@@ -16,4 +16,6 @@ I am not affiliated with or sponsored by any of these platforms, but I have foun
 
 [freeCodeCamp](https://www.freecodecamp.org/)
 
+[SitePoint](https://www.sitepoint.com/)
+
 [DataCamp](https://www.datacamp.com/)
