@@ -1,9 +1,19 @@
-# Tutorial Sources
-
-Created: Tuesday, March 31, 2026 | Last Updated: Tuesday, April 21, 2026
+---
+layout: post
+author: Brittni Watkins
+date: 2026-03-31
+modified_date: 2026-04-21
+title: "Tutorial Sources"
+tags:
+  - tutorials
+  - resources
+  - courses
+  - links
+toc: false
+---
 
 The following websites and platforms offer a wide range of tutorials, courses, and resources for learning programming, software development, and creative coding.
-Some of these platforms are free, while others may require a subscription or payment for access to certain content.
+Some of these platforms are free, some contain advertisements, and some require a subscription or payment for access to certain content.
 I am not affiliated with or sponsored by any of these platforms, but I have found them to be valuable resources for learning to code.
 
 [W3Schools](https://www.w3schools.com/)
