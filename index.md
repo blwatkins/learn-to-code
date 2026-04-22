@@ -1,6 +1,6 @@
 ---
 title: "Learn to Code"
-layout: home
+layout: page
 ---
 
 Notes, guides, resources, and references for learning software development and creative coding.

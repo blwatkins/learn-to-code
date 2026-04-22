@@ -1,6 +1,7 @@
 ---
 layout: post
-author: Brittni Watkins
+author:
+  - Brittni Watkins
 date: 2026-03-31
 modified_date: 2026-04-21
 title: "Tutorial Sources"

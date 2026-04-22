@@ -1,6 +1,7 @@
 ---
 layout: post
-author: Brittni Watkins
+author:
+  - Brittni Watkins
 date: 2026-03-18
 modified_date: 2026-03-18
 title: "What is Code? An Introduction to Programming"
