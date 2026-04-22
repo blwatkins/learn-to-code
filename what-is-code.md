@@ -1,6 +1,17 @@
-# What is Code? An Introduction to Programming
-
-Created: Wednesday, March 18, 2026 | Last Updated: Wednesday, March 18, 2026
+---
+layout: post
+author:
+  - Brittni Watkins
+date: 2026-03-18
+modified_date: 2026-03-18
+title: "What is Code? An Introduction to Programming"
+tags:
+  - code
+  - introduction
+  - hello world
+  - programming languages
+toc: true
+---
 
 ## What is Code?
 
