@@ -2,3 +2,7 @@
 
 # JetBrains IDEs
 .idea/
+
+# Jekyll
+.sass-cache/
+_site/
