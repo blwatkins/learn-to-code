@@ -30,7 +30,7 @@ jobs:
         with:
           bundler: 4.0.8
           bundler-cache: true
-          cache-version: 1
+          cache-version: 2
       - name: Setup Pages
         uses: actions/configure-pages@v6.0.0
       - name: Build with Jekyll
