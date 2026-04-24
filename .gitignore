@@ -3,6 +3,10 @@
 # JetBrains IDEs
 .idea/
 
+# Visual Studio Code
+.vscode/
+
 # Jekyll
-.sass-cache/
 _site/
+.jekyll-cache/
+.sass-cache/
