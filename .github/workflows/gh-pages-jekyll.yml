@@ -29,8 +29,7 @@ jobs:
         uses: ruby/setup-ruby@v1.305.0
         with:
           bundler: 4.0.8
-          bundler-cache: true
-          cache-version: 100
+          bundler-cache: false
       - name: Setup Pages
         uses: actions/configure-pages@v6.0.0
       - name: Build with Jekyll
