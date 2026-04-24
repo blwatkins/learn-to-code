@@ -30,7 +30,6 @@ jobs:
         with:
           bundler: 4.0.8
           bundler-cache: true
-          cache-version: 2026-04-24-002
       - name: Setup Pages
         id: setup_pages
         uses: actions/configure-pages@v6.0.0
