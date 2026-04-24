@@ -13,7 +13,7 @@ group :jekyll_plugins do
     gem "jekyll-seo-tag"
     gem "jekyll-remote-theme"
     gem "jekyll-coffeescript"
-    gem "jekyll-commonmark-ghpages"
+    gem "jekyll-commonmark-ghpages", ">= 0.2.34"
     gem "jekyll-relative-links"
     gem "jekyll-optional-front-matter"
     gem "jekyll-default-layout"
