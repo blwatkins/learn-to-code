@@ -39,15 +39,16 @@ minima:
 
 title: "Learn to Code, with Brittni Watkins"
 description: "Notes, guides, resources, and references for learning software development and creative coding."
-show_downloads: true
+show_downloads: false
 
 sass:
   quiet_deps: true
 
 exclude:
+  - .github
+  - .gitignore
   - .ruby-version
   - Gemfile
   - Gemfile.lock
-  - README.md
   - LICENSE
-  - .github
+  - README.md
