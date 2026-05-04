@@ -9,10 +9,12 @@ tags:
   - unix
   - shell
   - scripting
+  - bash
+  - z shell
 toc: false
 ---
 
-A Unix shell provides a text-based user interface, called a command line interface (CLI), for Unix-like operating systems.
+A Unix shell provides a text-based user interface, known as a command line interface (CLI), for Unix-like operating systems.
 The shell is both an interactive command language and a scripting language, and it is used by the operating system to control the execution of the system using shell scripts.
 
 There are many Unix shell programs available to developers, including [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [Z shell](https://en.wikipedia.org/wiki/Z_shell).
@@ -33,7 +35,7 @@ For additional information about Unix, the following resources may be helpful:
 
 [GeeksforGeeks - Unix Vs Linux](https://www.geeksforgeeks.org/linux-unix/linux-vs-unix/)
 
-[TutorialsPoint - Linux/Unix Tutorial](https://www.tutorialspoint.com/unix/index.htm)
+[Tutorials Point - Linux/Unix Tutorial](https://www.tutorialspoint.com/unix/index.htm)
 
 [freeCodeCamp - Linux Command Line Tutorial – How to Use Common Terminal Commands](https://www.freecodecamp.org/news/linux-command-line-tutorial/)
 
