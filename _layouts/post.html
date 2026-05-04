@@ -36,6 +36,8 @@ layout: base
         {%- if page.toc -%}
         <h2 id="table-of-contents">Contents</h2>
         {{ content | toc }}
+        <hr/>
+        <p><a href="#table-of-contents">Back to top.</a></p>
         {%- else -%}
         {{ content }}
         {%- endif -%}
