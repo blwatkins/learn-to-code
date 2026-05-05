@@ -33,3 +33,11 @@ With the proper configuration, we can use Git to sync code changes between the l
 For additional information about GitHub, the following resources may be helpful:
 
 [GitHub Docs](https://docs.github.com/en)
+
+[YouTube: The Coding Train - **Git and GitHub for Poets** (Playlist)](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=7rWf1MlXiECiFbqn)
+
+[YouTube: Brittni Builds - **Learning - Git and GitHub** (Playlist)](https://youtube.com/playlist?list=PLTk8vQ-hBSzMCiKhtxJ6JDYobgLKogJAV&si=V1HSTXkBabB3hnW8)
+
+[YouTube: Brittni Builds - **Learning - Git and GitHub: Tutorials** (Playlist)](https://youtube.com/playlist?list=PLTk8vQ-hBSzOZEUHQBkDZgzn5GxkrYurx&si=NiM_4j08TEn1xnKV)
+
+[YouTube: Brittni Builds - **Interview Prep - Git and GitHub** (Playlist)](https://youtube.com/playlist?list=PLTk8vQ-hBSzN4Vl5DSOjXcOGiRgWbYPF1&si=MXUZiRakEuYyJADh)
