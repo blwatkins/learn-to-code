@@ -30,11 +30,15 @@ This guide is not an exhaustive list.
 * [Useful Unix Commands](./commands.md)
 * [Unix Paths](./paths)
 * [Unix Shell Configuration](./shell-configuration)
+* [Unix Shell Editors](./shell-editors)
+  * [vi](./shell-editors/vi)
 * [Unix Shell Scripts](./shell-scripts)
 
 ## Resources and References
 
 For additional information about Unix, the following resources may be helpful:
+
+[W3Schools - What is Command Line Interface (CLI)?](https://www.w3schools.com/whatis/whatis_cli.asp)
 
 [AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
 

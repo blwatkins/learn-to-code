@@ -359,6 +359,8 @@ For additional information about Unix shell commands, the following resources ma
 
 [Red Hat Blog - Linux file permissions explained](https://www.redhat.com/en/blog/linux-file-permissions-explained)
 
+[W3Schools - What is Command Line Interface (CLI)?](https://www.w3schools.com/whatis/whatis_cli.asp)
+
 [AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
 
 [Wikipedia - Unix shell](https://en.wikipedia.org/wiki/Unix_shell)

@@ -30,6 +30,8 @@ To execute Unix shell commands and scripts, you will need a command line interfa
 
 For additional information about CLI applications, the following resources may be helpful:
 
+[W3Schools - What is Command Line Interface (CLI)?](https://www.w3schools.com/whatis/whatis_cli.asp)
+
 [AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
 
 ### Windows

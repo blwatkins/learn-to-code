@@ -91,7 +91,7 @@ explorer ~/.bashrc
 ### Editing from the Command Line
 
 You can edit profile and RC files directly from the command line using a wide range of command line text editors, including [`nano`](https://www.nano-editor.org/), [`vi`](https://en.wikipedia.org/wiki/Vi_(text_editor)), and [`vim`](https://www.vim.org/).
-Additional information about `vi` can be found in the [vi guide](../shell-editors/vi.md).
+Additional information about `vi` can be found in the [vi guide](../shell-editors/vi).
 
 For additional information about command line editors, the following resources may be helpful:
 
