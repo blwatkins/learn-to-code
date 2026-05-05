@@ -99,7 +99,7 @@ Under the `Code` tab of the repository, select the `<> Code` button.
 Select the `Local` tab.
 
 Choose the method you would like to use to clone the repository.
-If you are using a personal access token or password to authenticate to GitHub, you will clone repositories using the `HTTPS` URL.
+If you are using a personal access token to authenticate to GitHub, you will clone repositories using the `HTTPS` URL.
 If you are using an SSH key to authenticate to GitHub, you will clone repositories using `SSH`.
 
 Copy the address provided by GitHub.
