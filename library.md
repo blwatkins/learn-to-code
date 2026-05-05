@@ -24,7 +24,7 @@ I am not affiliated with or sponsored by any of the books, authors, or retailers
 
 ### Design Patterns
 
-- [*Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software*, by Eric Freeman & Elisabeth Robson](https://www.amazon.com/dp/149207800X?ref_=cm_sw_r_ffobk_cp_ud_dp_ZTPF1ZVMA4YBXDA5JZRC_1&bestFormat=true)
+- [*Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software*, by Eric Freeman & Elisabeth Robson](https://www.amazon.com/dp/149207800X)
 
 ### Creative Coding
 
