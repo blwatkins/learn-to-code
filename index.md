@@ -7,14 +7,16 @@ layout: page
 
 Notes, guides, resources, and references for learning software development and creative coding.
 
-[Tutorial Sources](tutorial-sources.md)
-
 ## Articles
 
-[What is Code? An Introduction to Programming](what-is-code.md)
+* [What is Code? An Introduction to Programming](what-is-code.md)
 
-## Guides & Tutorials
+## Guides
 
-[The Unix Shell and Shell Scripting](./unix)
+* [The Unix Shell and Shell Scripting](./unix)
+* [Git and GitHub](./git)
 
-[Git and GitHub](./git)
+## Additional Resources
+
+* [Tutorial Sources](tutorial-sources.md)
+* [Brittni's Library](library.md)
