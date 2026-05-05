@@ -28,7 +28,7 @@ For additional information about Git, the following resources may be helpful:
 
 [Pro Git Book](https://git-scm.com/book/en/v2)
 
-[codecademy - Learn Git: Introduction](https://www.codecademy.com/learn/learn-git-introduction)
+[Codecademy - Learn Git: Introduction](https://www.codecademy.com/learn/learn-git-introduction)
 
 [Code with Mosh - The Ultimate Git Course](https://codewithmosh.com/p/the-ultimate-git-course)
 
