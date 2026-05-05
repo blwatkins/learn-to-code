@@ -87,3 +87,17 @@ mkdir 'directory with spaces'
 ```
 
 Additional information about Unix shell commands can be found in the [Unix Commands guide](../commands.md).
+
+## Resources and References
+
+For additional information about file paths, the following resources may be helpful:
+
+[GeeksforGeeks - Path Name in File Directory](https://www.geeksforgeeks.org/operating-systems/path-name-in-file-directory/)
+
+[Tutorials Point - Path Name in File Directory](https://www.tutorialspoint.com/article/path-name-in-file-directory)
+
+[Codecademy Docs - File System Structure](https://www.codecademy.com/resources/docs/general/file-system-structure)
+
+[Codecademy Docs - File Paths](https://www.codecademy.com/resources/docs/general/file-paths)
+
+[freeCodeCamp - File Directories Explained by Getting Dressed in the Morning](https://www.freecodecamp.org/news/file-directories-explained-by-getting-dressed-in-the-morning-2f5d0a69cdde/)
