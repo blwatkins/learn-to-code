@@ -85,16 +85,19 @@ The [`echo`](https://explainshell.com/explain/1/echo) command will print the giv
 ```shell
 echo STRING_HERE
 ```
+<br/>
 
 > [!TIP]
 > Fun fact: Want to make your computer beep? Try the following:
 > `echo -e "\a"`
+<br/>
 
 When given an environment variable name, such as `$HOME` or `$PATH`, the `echo` command will print the value of the given variable.
 
 ```shell
 echo $VARIABLE_NAME_HERE
 ```
+<br/>
 
 For additional information about environment variables, the following resources may be helpful:
 
@@ -129,12 +132,14 @@ The [`ls`](https://explainshell.com/explain/1/ls) command prints all the visible
 ```shell
 ls
 ```
+<br/>
 
 When we add the `-l` flag to the `ls` command, the visible files and folders will be printed in a long list format.
 
 ```shell
 ls -l
 ```
+<br/>
 
 When we add the `-a` flag to the `ls` command, the command will list all the files and folders in our working directory, including hidden files and folders.
 
@@ -143,18 +148,21 @@ Hidden files and folders will always have a name that begins with `.` (e.g. `.ba
 ```shell
 ls -a
 ```
+<br/>
 
 When we add both the `-a` and `-l` flags to the `ls` command, the command will list all files in our working directory, including hidden files, in a long list format.
 
 ```shell
 ls -al
 ```
+<br/>
 
 We can use the `ls` command to print the contents of a different directory by providing the absolute or relative path to the directory.
 
 ```shell
 ls DIRECTORY_PATH_HERE
 ```
+<br/>
 
 Additional information about paths can be found in the [Unix Paths guide](./paths).
 
@@ -167,6 +175,7 @@ The [`cd`](https://explainshell.com/explain/1posix/cd) command will change the w
 ```shell
 cd DIRECTORY_PATH_HERE
 ```
+<br/>
 
 Additional information about paths can be found in the [Unix Paths guide](./paths).
 
@@ -179,12 +188,14 @@ The [`touch`](https://explainshell.com/explain/1/touch) command creates a file.
 ```shell
 touch FILENAME_HERE
 ```
+<br/>
 
 When executing the `touch` command, the filename argument can also be a relative or absolute path to the file you are creating.
 
 ```shell
 touch FILE_PATH_HERE
 ```
+<br/>
 
 Additional information about paths can be found in the [Unix Paths guide](./paths).
 
@@ -208,6 +219,7 @@ The directory path argument can be an absolute path or a relative path.
 ```shell
 mkdir DIRECTORY_PATH_HERE
 ```
+<br/>
 
 Additional information about paths can be found in the [Unix Paths guide](./paths).
 
@@ -220,6 +232,7 @@ The [`chmod`](https://explainshell.com/explain/1/chmod) command updates the perm
 ```shell
 chmod PERMISSIONS_HERE FILE_PATH_HERE
 ```
+<br/>
 
 Permissions can be provided in symbolic mode or octal mode.
 
@@ -242,6 +255,7 @@ The [`export`](https://explainshell.com/explain/1posix/export) command will set 
 ```shell
 export VARIABLE_NAME_HERE=VARIABLE_VALUE_HERE
 ```
+<br/>
 
 If an environment variable needs to have some value in every shell session, it is recommended to set that variable in the appropriate shell profile file or shell RC file.
 Additional information about shell profile files and RC files can be found in the [Unix Shell Configuration guide](./shell-configuration).
@@ -268,6 +282,7 @@ The [`which`](https://explainshell.com/explain/1/which) command prints the absol
 ```shell
 which COMMAND_NAME_HERE
 ```
+<br/>
 
 When we add the `-a` flag to the `which` command, the command will print all paths to the given command.
 A command may have multiple paths if there are multiple versions of the command installed on the machine.
@@ -275,6 +290,7 @@ A command may have multiple paths if there are multiple versions of the command 
 ```shell
 which -a COMMAND_NAME_HERE
 ```
+<br/>
 
 The `which -a` commands give you all locations of the given command.
 The `which` command tells you which one will be used when you execute that command.
