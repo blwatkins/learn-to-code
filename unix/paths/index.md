@@ -38,7 +38,7 @@ The absolute path to a file on one machine will likely be very different from th
 
 A relative path allows us to reference the location of a file or directory relative to the working directory.
 
-Certain characters in relative paths can be use to indicate different directories relative to the working directory.
+Certain characters in relative paths can be used to indicate different directories relative to the working directory.
 
 `..` is used to indicate the directory one level up from the working directory.
 
