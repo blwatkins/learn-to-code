@@ -36,6 +36,7 @@ echo $HOME
 cd ~
 pwd
 ```
+<br/>
 
 If a profile file or RC file does not exist, you can create it using the `touch` command.
 For example, to create a `.bash_profile` file, execute the following command in your preferred Unix shell CLI.
@@ -43,6 +44,7 @@ For example, to create a `.bash_profile` file, execute the following command in 
 ```shell
 touch ~/.bash_profile
 ```
+<br/>
 
 Additional information about Unix shell commands can be found in the [Unix Commands guide](../commands.md).
 
