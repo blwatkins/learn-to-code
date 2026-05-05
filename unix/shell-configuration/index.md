@@ -83,11 +83,11 @@ open ~/.bashrc
 ### Editing on Windows
 
 You can edit profile and RC files on Windows using the `Notepad` application.
-You can open files in `Notepad` from the command line using the `explorer` command.
+You can open files in `Notepad` from the command line using the `notepad` command.
 For example, to open the `.bashrc` file, execute the following command in your preferred Unix shell CLI.
 
 ```shell
-explorer ~/.bashrc
+notepad ~/.bashrc
 ```
 
 ### Editing from the Command Line
