@@ -26,7 +26,7 @@ With the proper configuration, we can use Git to sync code changes between the l
 
 ## Guides
 
-[Create and Clone a GitHub Repository](./create-and-clone-repo.md)
+* [Create and Clone a GitHub Repository](./create-and-clone-repo.md)
 
 ## Resources and References
 
