@@ -58,8 +58,8 @@ GitHub has multiple ways to authenticate your account, and the method you select
 If you would like to authenticate to GitHub using an SSH key, you can follow the instructions on the [GitHub Docs - Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) page.
 If you are using an SSH key to authenticate to GitHub, you will clone repositories using `SSH`.
 
-If you would like to authenticate to GitHub using a person access token, you can follow the provided instructions on the [GitHub Docs - Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) page.
-If you are using a personal access token or password to authenticate to GitHub, you will clone repositories using the `HTTPS` URL.
+If you would like to authenticate to GitHub using a personal access token, you can follow the provided instructions on the [GitHub Docs - Managing your personal access tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) page.
+If you are using a personal access token to authenticate to GitHub, you will clone repositories using the `HTTPS` URL.
 
 For additional information about GitHub Authentication, the following resources may be helpful:
 
