@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2026-05-04
-modified_date: 2026-05-04
+modified_date: 2026-05-05
 title: "Useful Unix Commands"
 tags:
   - unix
@@ -265,40 +265,32 @@ The [`which`](https://explainshell.com/explain/1/which) command prints the absol
 which COMMAND_NAME_HERE
 ```
 
-#### `which` Examples
-
-```shell
-which ruby
-```
-```shell
-which python
-```
-
-### `where` / `which -a`
-
-**Print All Paths to This Command**
-
-The `where` command and the `which -a` command are equivalent; they print all paths to the given command.
-
-```shell
-where COMMAND_NAME_HERE
-```
+When we add the `-a` flag to the `which` command, the command will print all paths to the given command.
+A command may have multiple paths if there are multiple versions of the command installed on the machine.
 
 ```shell
 which -a COMMAND_NAME_HERE
 ```
 
-The `where` and `which -a` commands give you all locations of the given command.
+The `which -a` commands give you all locations of the given command.
 The `which` command tells you which one will be used when you execute that command.
 
-#### `where` / `which -a` Examples
+#### `which` Examples
 
 ```shell
-where ruby
+which ruby
+```
+
+```shell
+which python
 ```
 
 ```shell
 which -a ruby
+```
+
+```shell
+which -a python
 ```
 
 ### `bash`
