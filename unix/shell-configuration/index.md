@@ -66,7 +66,7 @@ This includes opening a new shell window or executing a shell script (e.g. `bash
 
 In [Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), the RC file is typically called `.bashrc`.
 
-In [Z shell](https://en.wikipedia.org/wiki/Z_shell), the profile file is typically called `.zshrc`.
+In [Z shell](https://en.wikipedia.org/wiki/Z_shell), the RC file is typically called `.zshrc`.
 
 ## Editing Profile and RC Files
 
