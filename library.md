@@ -33,7 +33,7 @@ I am not affiliated with or sponsored by any of the books, authors, or retailers
 
 ## Computers and Computer Engineering
 
-- [*Code: The Hidden Language of Computer Hardware and Software*, by Charles Petzold](https://www.amazon.com/dp/0137909101?ref_=cm_sw_r_ffobk_cp_ud_dp_9JJ9Q6PMZXTEE0BXHDCA&bestFormat=true)
+- [*Code: The Hidden Language of Computer Hardware and Software*, by Charles Petzold](https://www.amazon.com/dp/0137909101)
 - [*The Elements of Computing Systems: Building a Modern Computer from First Principles*, by Noam Nisan & Simon Schocken](https://www.nand2tetris.org/)
 
 ## Programming Languages
