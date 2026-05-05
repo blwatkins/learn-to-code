@@ -44,7 +44,7 @@ I am not affiliated with or sponsored by any of the books, authors, or retailers
 
 ### Java
 
-- [*Head First Java: A Brain-Friendly Guide*, by Kathy Sierra, Bert Bates, & Trisha Gee](https://a.co/d/00OMkSjI)
+- [*Head First Java: A Brain-Friendly Guide*, by Kathy Sierra, Bert Bates, & Trisha Gee](https://www.amazon.com/dp/1491910771)
 
 #### Processing
 
