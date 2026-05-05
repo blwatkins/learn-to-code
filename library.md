@@ -49,4 +49,4 @@ I am not affiliated with or sponsored by any of the books, authors, or retailers
 #### Processing
 
 - [*Learning Processing*, by Daniel Shiffman](http://learningprocessing.com/)
-- [*Processing: Creative Coding and Generative Art in Processing 2*, by Ira Greenberg, Dianna Xu, and Deepak Kumar](https://www.amazon.com/dp/143024464X?ref_=cm_sw_r_ffobk_cp_ud_dp_V1WDWS70K2VNEDTZJW2Q&bestFormat=true)
+- [*Processing: Creative Coding and Generative Art in Processing 2*, by Ira Greenberg, Dianna Xu, and Deepak Kumar](https://www.amazon.com/dp/143024464X)
