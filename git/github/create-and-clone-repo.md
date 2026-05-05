@@ -109,16 +109,18 @@ Additional information about Unix shell commands can be found in the [Useful Uni
 
 Type and execute the following command, using the repository URL copied from GitHub.
 Follow any prompts needed to authenticate your account.
-<br/>
-
-> [!CAUTION]
-> ***Do NOT clone repositories from unverified sources.***
-> ***Do NOT clone repositories from developers you do not trust.***
-<br/>
 
 ```shell
 git clone REPOSITORY_URL_HERE
 ```
+
+<br/>
+
+> [!CAUTION]
+> ***Do NOT clone repositories from unverified sources.***
+> 
+> ***Do NOT clone repositories from developers you do not trust.***
+
 <br/>
 
 Do you see a folder in your current directory with the same name as your GitHub repository?

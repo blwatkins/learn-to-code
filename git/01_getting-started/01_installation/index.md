@@ -48,10 +48,10 @@ Type and execute the following (hit `ENTER` or `RETURN` to execute the command):
 ```shell
 git --version
 ```
+
 <br/>
 
 Do you see a version number? If yes, congratulations! You have successfully installed Git!
-
 
 ## Installing Git for macOS
 
@@ -76,6 +76,7 @@ Type and execute the following (hit `ENTER` or `RETURN` to execute the command):
 ```shell
 brew --version
 ```
+
 <br/>
 
 Do you see a version number? If yes, congratulations! You have successfully installed Homebrew!
@@ -97,6 +98,7 @@ In the Terminal application, type and execute the following:
 ```shell
 git --version
 ```
+
 <br/>
 
 Do you see a version number? If yes, congratulations! You have successfully installed Git!
@@ -109,12 +111,14 @@ The following instructions will walk through the global configuration.
 
 If you are only using Git locally, the username and email that you set is inconsequential.
 However, if you are using a Git hosting service, such as [GitHub](https://github.com/) or [GitLab](https://about.gitlab.com/) your username and email should match those being used in the hosting service.
+
 <br/>
 
 > [!CAUTION]
 > The name and email you set in your configuration will be accessible to anyone who clones your repository or any repository you contribute to.
 > If you have a GitHub account, and would like to keep your email address private, you can configure your git email address to be the `noreply` email address provided by GitHub.
 > Instructions on how to find your `noreply` email on GitHub are available in the [GitHub Docs: Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+
 <br/>
 
 To set your Git configuration variables, open the Unix shell of your choice.
@@ -130,6 +134,7 @@ git config --global user.name USER_NAME_HERE
 ```shell
 git config --global user.email USER_EMAIL_HERE
 ```
+
 <br/>
 
 You can double-check that the variables have been set with the following command:
@@ -137,6 +142,7 @@ You can double-check that the variables have been set with the following command
 ```shell
 git config --global --list
 ```
+
 <br/>
 
 For additional information about first time Git setup, the following resources may be helpful:
@@ -153,4 +159,4 @@ I believe Git is successfully installed and configured when you are able to do t
 1. Commit a change to a local repository and push it up to a remote repository
 1. Commit a change to a remote repository and pull it down to a local repository
 
-Additional information about cloning a remote GitHub repository can be found in the [Create and Clone a GitHub Repository guide](./github/create-and-clone-repo.md).
+Additional information about cloning a remote GitHub repository can be found in the [Create and Clone a GitHub Repository guide](../../github/create-and-clone-repo.md).

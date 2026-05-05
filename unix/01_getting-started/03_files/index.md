@@ -24,6 +24,7 @@ For example, to create a shell script file named `my-script.sh`, you would execu
 ```shell
 touch my-script.sh
 ```
+
 <br/>
 
 Additional information about Unix shell commands can be found in the [Unix Commands guide](../../commands.md).

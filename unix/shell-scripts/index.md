@@ -30,6 +30,7 @@ For example, if you are using the Bash shell, the shebang line would look like t
 ```bash
 #!/bin/bash
 ```
+
 <br/>
 
 If you are using the Z shell, the shebang line would look like this:

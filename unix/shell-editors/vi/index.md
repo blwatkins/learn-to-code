@@ -31,6 +31,7 @@ If the file does not exist, it will be created when you save your changes.
 ```shell
 vi FILEPATH_HERE
 ```
+
 <br/>
 
 The provided file path can be an absolute path or a relative path.
@@ -63,6 +64,7 @@ The `:w` command saves the changes you have made to the file without exiting `vi
 ```
 :w
 ```
+
 <br/>
 
 To execute this command, type `:w` while in command mode, then press `ENTER`.
@@ -74,6 +76,7 @@ The `:q` command exits `vi` without saving any changes you have made to the file
 ```
 :q
 ```
+
 <br/>
 
 To execute this command, type `:q` while in command mode, then press `ENTER`.
@@ -85,6 +88,7 @@ The `:wq` command saves the changes you have made to the file and then exits `vi
 ```
 :wq
 ```
+
 <br/>
 
 To execute this command, type `:wq` while in command mode, then press `ENTER`.
