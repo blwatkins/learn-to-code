@@ -52,7 +52,7 @@ For additional information about Unix, the following resources may be helpful:
 
 [freeCodeCamp - Linux Command Line Tutorial – How to Use Common Terminal Commands](https://www.freecodecamp.org/news/linux-command-line-tutorial/)
 
-[Codecaemy - Bash/Shell courses](https://www.codecademy.com/catalog/language/bash)
+[Codecademy - Bash/Shell courses](https://www.codecademy.com/catalog/language/bash)
 
 [DataCamp - Shell courses](https://www.datacamp.com/category/shell)
 
