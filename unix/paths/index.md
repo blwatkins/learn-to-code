@@ -51,6 +51,7 @@ If you do not know the location of your home directory, you can print it using t
 ```shell
 echo $HOME
 ```
+<br/>
 
 Additional information about Unix shell commands can be found in the [Unix Commands guide](../commands.md).
 
@@ -87,6 +88,7 @@ ls './directory with spaces'
 ```shell
 mkdir 'directory with spaces'
 ```
+<br/>
 
 Additional information about Unix shell commands can be found in the [Unix Commands guide](../commands.md).
 
