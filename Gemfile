@@ -21,4 +21,5 @@ group :jekyll_plugins do
     gem "kramdown-parser-gfm"
     gem "jekyll-minima"
     gem "jekyll-toc"
+    gem "jekyll-gfm-admonitions"
 end

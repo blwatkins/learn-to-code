@@ -11,6 +11,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-titles-from-headings
   - jekyll-toc
+  - jekyll-gfm-admonitions
 
 # valid social icon names can be found at https://fontawesome.com/search?ic=brands
 
