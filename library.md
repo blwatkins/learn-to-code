@@ -40,7 +40,7 @@ I am not affiliated with or sponsored by any of the books, authors, or retailers
 
 ### C++
 
-- [*C++ Primer Plus*, by Stephen Prata](https://www.amazon.com/dp/0321776402?ref_=cm_sw_r_ffobk_cp_ud_dp_DN37RN62EGDAJ9NBR6Z4&bestFormat=true)
+- [*C++ Primer Plus*, by Stephen Prata](https://www.amazon.com/dp/0321776402)
 
 ### Java
 
