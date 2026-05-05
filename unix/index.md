@@ -62,4 +62,8 @@ For additional information about Unix, the following resources may be helpful:
 
 [DataCamp - Shell courses](https://www.datacamp.com/category/shell)
 
-[YouTube: Brittni Builds - *Learning - Unix Shell* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzOAF-cs3oDmS6itsI7BoX7X&si=JPDV3HFtT7isU_1H)
+[YouTube: HackerSploit - *Shell Scripting* (Playlist)](https://youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT&si=OCYrhAHbFsZm62F7)
+
+[YouTube: edureka! - *Linux Administration Tutorial Videos* (Playlist)](https://youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik&si=qBmtx_wK6elQOzUY)
+
+[YouTube: Brittni Builds - *Learning - Unix Shell, Shell Scripting, and Linux* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzOAF-cs3oDmS6itsI7BoX7X&si=v68uKwS4Hnm62cdF)
