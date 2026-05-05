@@ -29,7 +29,7 @@ I am not affiliated with or sponsored by any of the books, authors, or retailers
 ### Creative Coding
 
 - [*Form and Code*, by Casey Reas & Chandler McWilliams](https://formandcode.com/)
-- [*Code as Creative Medium: A Handbook for Computational Art and Design*, by Tega Brain](https://www.amazon.com/dp/0262542048?ref_=cm_sw_r_ffobk_cp_ud_dp_4S8R543E1VHX964WSCA6&bestFormat=true)
+- [*Code as Creative Medium: A Handbook for Computational Art and Design*, by Tega Brain](https://www.amazon.com/dp/0262542048)
 
 ## Computers and Computer Engineering
 
