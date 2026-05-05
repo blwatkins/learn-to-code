@@ -96,6 +96,10 @@ When given an environment variable name, such as `$HOME` or `$PATH`, the `echo` 
 echo $VARIABLE_NAME_HERE
 ```
 
+For additional information about environment variables, the following resources may be helpful:
+
+[Red Hat Blog - Linux environment variable tips and tricks](https://www.redhat.com/en/blog/linux-environment-variables)
+
 #### `echo` Examples
 
 ```shell
