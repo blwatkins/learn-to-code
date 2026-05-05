@@ -30,6 +30,7 @@ This guide is not an exhaustive list.
 * [Useful Unix Commands](./commands.md)
 * [Unix Paths](./paths)
 * [Unix Shell Configuration](./shell-configuration)
+* [Unix Shell Scripts](./shell-scripts)
 
 ## Resources and References
 
