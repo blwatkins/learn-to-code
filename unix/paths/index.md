@@ -16,6 +16,8 @@ tags:
 toc: true
 ---
 
+## Introduction
+
 When specifying the location of files and folders on a computer system, it is important to know the difference between a relative path and an absolute path, and which is most appropriate for your code.
 
 ## Absolute Path
@@ -44,7 +46,7 @@ Certain characters in relative paths can be use to indicate different directorie
 
 `~` is used to indicate your `$HOME` directory.
 
-If you do not know the location of your home directory, you can print it using the `echo` command in a Unix shell CLI.
+If you do not know the location of your home directory, you can print it using the `echo` command in a Unix shell command line interface (CLI).
 
 ```shell
 echo $HOME
