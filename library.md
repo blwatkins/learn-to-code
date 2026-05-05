@@ -20,7 +20,7 @@ I am not affiliated with or sponsored by any of the books, authors, or retailers
 
 ## Software Development
 
-- [*Clean Code: A Handbook of Agile Software Craftsmanship*, by Robert C. Martin](https://a.co/d/0e533qoZ)
+- [*Clean Code: A Handbook of Agile Software Craftsmanship*, by Robert C. Martin](https://www.amazon.com/dp/0135398576)
 
 ### Design Patterns
 
