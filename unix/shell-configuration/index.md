@@ -2,7 +2,7 @@
 layout: post
 author:
   - Brittni Watkins
-date: 2026-05-05
+date: 2025-05-21
 modified_date: 2026-05-05
 title: "Unix Shell Configuration"
 tags:

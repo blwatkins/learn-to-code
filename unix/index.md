@@ -26,6 +26,7 @@ There are many Unix shell programs available to developers, including [Bash](htt
 The following guides provide an introduction to installing, configuring and using the Unix shell.
 This guide is not an exhaustive list.
 
+* [Getting Started with Unix](./01_getting-started)
 * [Useful Unix Commands](./commands.md)
 * [Unix Paths](./paths)
 * [Unix Shell Configuration](./shell-configuration)
