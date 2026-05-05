@@ -16,3 +16,5 @@ Notes, guides, resources, and references for learning software development and c
 ## Guides & Tutorials
 
 [The Unix Shell and Shell Scripting](./unix)
+
+[Git and GitHub](./git)
