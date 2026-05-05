@@ -18,35 +18,35 @@ Some of these books are available for free online, while others may require purc
 
 I am not affiliated with or sponsored by any of the books, authors, or retailers linked on this page.
 
-# Software Development
+## Software Development
 
 - [*Clean Code: A Handbook of Agile Software Craftsmanship*, by Robert C. Martin](https://a.co/d/0e533qoZ)
 
-## Design Patterns
+### Design Patterns
 
 - [*Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software*, by Eric Freeman & Elisabeth Robson](https://www.amazon.com/dp/149207800X?ref_=cm_sw_r_ffobk_cp_ud_dp_ZTPF1ZVMA4YBXDA5JZRC_1&bestFormat=true)
 
-## Creative Coding
+### Creative Coding
 
 - [*Form and Code*, by Casey Reas & Chandler McWilliams](https://formandcode.com/)
 - [*Code as Creative Medium: A Handbook for Computational Art and Design*, by Tega Brain](https://www.amazon.com/dp/0262542048?ref_=cm_sw_r_ffobk_cp_ud_dp_4S8R543E1VHX964WSCA6&bestFormat=true)
 
-# Computers and Computer Engineering
+## Computers and Computer Engineering
 
 - [*Code: The Hidden Language of Computer Hardware and Software*, by Charles Petzold](https://www.amazon.com/dp/0137909101?ref_=cm_sw_r_ffobk_cp_ud_dp_9JJ9Q6PMZXTEE0BXHDCA&bestFormat=true)
 - [*The Elements of Computing Systems: Building a Modern Computer from First Principles*, by Noam Nisan & Simon Schocken](https://www.nand2tetris.org/)
 
-# Programming Languages
+## Programming Languages
 
-## C++
+### C++
 
 - [*C++ Primer Plus*, by Stephen Prata](https://www.amazon.com/dp/0321776402?ref_=cm_sw_r_ffobk_cp_ud_dp_DN37RN62EGDAJ9NBR6Z4&bestFormat=true)
 
-## Java
+### Java
 
 - [*Head First Java: A Brain-Friendly Guide*, by Kathy Sierra, Bert Bates, & Trisha Gee](https://a.co/d/00OMkSjI)
 
-### Processing
+#### Processing
 
 - [*Learning Processing*, by Daniel Shiffman](http://learningprocessing.com/)
 - [*Processing: Creative Coding and Generative Art in Processing 2*, by Ira Greenberg, Dianna Xu, and Deepak Kumar](https://www.amazon.com/dp/143024464X?ref_=cm_sw_r_ffobk_cp_ud_dp_V1WDWS70K2VNEDTZJW2Q&bestFormat=true)
