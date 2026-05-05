@@ -26,7 +26,7 @@ An absolute path is the path to a file or directory from the root directory of t
 
 On Unix-like systems, absolute paths begin with `/` (e.g. `/Users/username/`).
 
-On Windows systems, absolute paths begin with the drive name (e.g. `C:/Users/username/`).
+On Windows systems, absolute paths begin with the drive name (e.g. `C:\Users\username\`).
 
 In a Unix shell, you print the absolute path of your working directory with the `pwd` command.
 Additional information about Unix shell commands can be found in the [Unix Commands guide](../commands.md).
