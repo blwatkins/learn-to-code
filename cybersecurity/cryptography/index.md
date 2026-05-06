@@ -12,6 +12,16 @@ tags:
 toc: true
 ---
 
+## Introduction
+
+The following guides provide an introduction to various cryptography topics that can be applied across multiple environments, programming languages, and frameworks.
+
+## Guides
+
+* [Asymmetric Encryption](./asymmetric-encryption)
+
+## Resources and References
+
 For additional information about cryptography, the following resources may be helpful:
 
 [GeeksforGeeks - Cryptography Tutorial](https://www.geeksforgeeks.org/computer-networks/cryptography-tutorial/)
@@ -28,4 +38,4 @@ For additional information about cryptography, the following resources may be he
 
 [freeCodeCamp - Encryption Algorithms Explained with Examples](https://www.freecodecamp.org/news/understanding-encryption-algorithms/)
 
-[YouTube: Brittni Builds - **Learning - Cryptography** Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzNQHlXSw5aknzza9Su3jRXn&si=VIg-_2C818QIcsjt)
+[YouTube: Brittni Builds - *Learning - Cryptography* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzNQHlXSw5aknzza9Su3jRXn&si=VIg-_2C818QIcsjt)
