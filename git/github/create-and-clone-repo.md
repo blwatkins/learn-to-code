@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2025-05-20
-modified_date: 2026-05-05
+modified_date: 2026-05-06
 title: "Create and Clone a GitHub Repository"
 tags:
   - git
@@ -63,7 +63,13 @@ If you are using a personal access token to authenticate to GitHub, you will clo
 
 For additional information about GitHub Authentication, the following resources may be helpful:
 
-[GitHub Docs - Authentication](https://docs.github.com/en/authentication).
+[GitHub Docs - Authentication](https://docs.github.com/en/authentication)
+
+[GitHub Docs - Connecting to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+[W3Schools - Git Security SSH](https://www.w3schools.com/git/git_security_ssh.asp)
+
+[Tutorials Point - Git - SSH Protocol](https://www.tutorialspoint.com/git/git-the-ssh-protocol.htm)
 
 ## Create a New Repository
 
