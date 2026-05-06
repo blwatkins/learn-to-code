@@ -42,4 +42,4 @@ For additional information about secure shell (SSH), the following resources may
 
 [YouTube: Brittni Builds - *Learning - SSH* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzMKZUJamqC3VxT2UshcdXaX&si=k0Z9TSwp-ERswn6H)
 
-[Tutorials Point  - Secure Shell (SSH) Course](https://market.tutorialspoint.com/course/mastering-secure-shell-ssh/index.asp)
+[Tutorials Point - Secure Shell (SSH) Course](https://market.tutorialspoint.com/course/mastering-secure-shell-ssh/index.asp)
