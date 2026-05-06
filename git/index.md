@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2025-05-13
-modified_date: 2026-05-05
+modified_date: 2026-05-06
 title: "Git"
 tags:
   - git
