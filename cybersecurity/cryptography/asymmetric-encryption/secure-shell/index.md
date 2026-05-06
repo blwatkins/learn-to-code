@@ -11,6 +11,7 @@ tags:
   - ssh
   - cryptography
   - security
+  - cybersecurity
 toc: false
 ---
 
