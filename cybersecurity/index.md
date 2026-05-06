@@ -22,7 +22,11 @@ The following guides provide an introduction to various cybersecurity topics tha
     * [Secure Shell (SSH)](./cryptography/asymmetric-encryption/secure-shell)
 * [Principle of Least Privilege (PoLP)](./principle-of-least-privilege)
 * [Cross-Origin Resource Sharing (CORS)](./cross-origin-resource-sharing)
-* [Vulnerabilities and Attacks](vulnerabilities-and-attacks/README.md#cybersecurity---vulnerabilities-and-attacks)
+* [Vulnerabilities and Attacks](./vulnerabilities-and-attacks)
+  * [Cross-Site Request Forgery (CSRF)](./vulnerabilities-and-attacks/cross-site-request-forgery)
+  * [Cross-Site Scripting (XSS)](./vulnerabilities-and-attacks/cross-site-scripting)
+  * [Denial of Service Attacks (DoS and DDoS)](./vulnerabilities-and-attacks/denial-of-service)
+  * [SQL Injection](./vulnerabilities-and-attacks/sql-injection)
 
 ## Resources and References
 

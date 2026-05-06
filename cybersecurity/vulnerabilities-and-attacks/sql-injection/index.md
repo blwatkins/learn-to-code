@@ -1,6 +1,17 @@
-# SQL Injection
-
-Created: Thursday, April 2, 2026 | Last Updated: Thursday, April 2, 2026
+---
+layout: post
+author:
+  - Brittni Watkins
+date: 2026-04-02
+modified_date: 2026-05-06
+title: "SQL Injection"
+tags:
+  - cybersecurity
+  - security
+  - sql
+  - sql injection
+toc: false
+---
 
 For additional information about SQL injection, the following resources may be helpful:
 
