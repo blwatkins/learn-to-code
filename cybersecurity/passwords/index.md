@@ -12,6 +12,6 @@ tags:
 toc: false
 ---
 
-For additional information about principle of least privilege, the following resources may be helpful:
+For additional information about passwords and password security, the following resources may be helpful:
 
 [YouTube: Brittni Builds - *Learning - Web Development: Security - Passwords* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzP1mo96Pp5NeI1XCZnyigqV&si=pWtaKnZSXBhlFc0K)
