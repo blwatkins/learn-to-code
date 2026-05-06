@@ -9,14 +9,16 @@ Notes, guides, resources, and references for learning software development and c
 
 ## Articles
 
-* [What is Code? An Introduction to Programming](what-is-code.md)
+* [What is Code? An Introduction to Programming](./what-is-code.md)
 
 ## Guides
 
+* [Computers](./computers)
 * [The Unix Shell and Shell Scripting](./unix)
 * [Git and GitHub](./git)
+* [Cybersecurity](./cybersecurity)
 
 ## Additional Resources
 
-* [Tutorial Sources](tutorial-sources.md)
-* [Brittni's Library](library.md)
+* [Tutorial Sources](./tutorial-sources.md)
+* [Brittni's Library](./library.md)

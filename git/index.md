@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2025-05-13
-modified_date: 2026-05-05
+modified_date: 2026-05-06
 title: "Git"
 tags:
   - git
@@ -28,11 +28,13 @@ For additional information about Git, the following resources may be helpful:
 
 [Pro Git Book](https://git-scm.com/book/en/v2)
 
-[YouTube: The Coding Train - *Git and GitHub for Poets* (Playlist)](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=7rWf1MlXiECiFbqn)
+[Tutorials Point - Git Tutorial](https://www.tutorialspoint.com/git/index.htm)
 
-[YouTube: Simplilearn - *Git Tutorial Videos* (Playlist)](https://youtube.com/playlist?list=PLEiEAq2VkUUJs7lyLgSsRlnd9syrFBzSM&si=UUEbq7ZWxnonwJJj)
+[YouTube: The Coding Train - *Git and GitHub for Poets* Playlist](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=7rWf1MlXiECiFbqn)
 
-[YouTube: Brittni Builds - *Learning - Git and GitHub* (Playlist)](https://youtube.com/playlist?list=PLTk8vQ-hBSzMCiKhtxJ6JDYobgLKogJAV&si=V1HSTXkBabB3hnW8)
+[YouTube: Simplilearn - *Git Tutorial Videos* Playlist](https://youtube.com/playlist?list=PLEiEAq2VkUUJs7lyLgSsRlnd9syrFBzSM&si=UUEbq7ZWxnonwJJj)
+
+[YouTube: Brittni Builds - *Learning - Git and GitHub* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzMCiKhtxJ6JDYobgLKogJAV&si=V1HSTXkBabB3hnW8)
 
 [Codecademy - Learn Git: Introduction](https://www.codecademy.com/learn/learn-git-introduction)
 
