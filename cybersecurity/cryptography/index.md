@@ -9,6 +9,7 @@ tags:
   - cryptography
   - security
   - encryption
+  - cybersecurity
 toc: true
 ---
 
