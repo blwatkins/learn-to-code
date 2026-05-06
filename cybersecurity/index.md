@@ -20,7 +20,7 @@ The following guides provide an introduction to various cybersecurity topics tha
 * [Cryptography](./cryptography)
   * [Asymmetric Encryption](./cryptography/asymmetric-encryption)
     * [Secure Shell (SSH)](./cryptography/asymmetric-encryption/secure-shell)
-* [Principle of Least Privilege (PoLP)](principle-of-least-privilege/README.md#principle-of-least-privilege-polp)
+* [Principle of Least Privilege (PoLP)](./principle-of-least-privilege)
 * [Cross-Origin Resource Sharing (CORS)](cross-origin-resource-sharing/README.md#cross-origin-resource-sharing-cors)
 * [Vulnerabilities and Attacks](vulnerabilities-and-attacks/README.md#cybersecurity---vulnerabilities-and-attacks)
 
