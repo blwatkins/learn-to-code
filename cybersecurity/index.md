@@ -27,6 +27,7 @@ The following guides provide an introduction to various cybersecurity topics tha
   * [Cross-Site Scripting (XSS)](./vulnerabilities-and-attacks/cross-site-scripting)
   * [Denial of Service Attacks (DoS and DDoS)](./vulnerabilities-and-attacks/denial-of-service)
   * [SQL Injection](./vulnerabilities-and-attacks/sql-injection)
+* [Passwords](./passwords)
 
 ## Resources and References
 
