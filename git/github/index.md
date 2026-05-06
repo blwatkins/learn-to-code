@@ -34,6 +34,6 @@ For additional information about GitHub, the following resources may be helpful:
 
 [GitHub Docs](https://docs.github.com/en)
 
-[YouTube: The Coding Train - *Git and GitHub for Poets* (Playlist)](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=7rWf1MlXiECiFbqn)
+[YouTube: The Coding Train - *Git and GitHub for Poets* Playlist](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&si=7rWf1MlXiECiFbqn)
 
-[YouTube: Brittni Builds - *Learning - Git and GitHub* (Playlist)](https://youtube.com/playlist?list=PLTk8vQ-hBSzMCiKhtxJ6JDYobgLKogJAV&si=V1HSTXkBabB3hnW8)
+[YouTube: Brittni Builds - *Learning - Git and GitHub* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzMCiKhtxJ6JDYobgLKogJAV&si=V1HSTXkBabB3hnW8)
