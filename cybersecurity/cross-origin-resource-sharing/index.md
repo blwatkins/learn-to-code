@@ -10,7 +10,7 @@ tags:
   - security
   - cors
   - cross-origin resource sharing
-toc: true
+toc: false
 ---
 
 For additional information about cross-origin resource sharing (CORS), the following resources may be helpful:
