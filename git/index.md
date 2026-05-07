@@ -19,6 +19,8 @@ It is a powerful tool that allows us to track changes, collaborate with others, 
 
 * [Git Installation](01_getting-started/01_installation)
 * [GitHub](./github)
+* [`git config`](./git-config)
+* [`git tag`](./git-tag)
 
 ## Resources and References
 
