@@ -1,6 +1,17 @@
-# Favicon
+---
+layout: post
+author:
+  - Brittni Watkins
+date: 2026-04-21
+modified_date: 2026-05-07
+title: "Favicon"
+tags:
+  - web development
+  - favicon
+toc: true
+---
 
-Created: Tuesday, April 21, 2026 | Last Updated: Tuesday, April 21, 2026
+## Creating a Favicon
 
 To create a Favicon, the following resources may be helpful:
 
@@ -14,6 +25,8 @@ To create a Favicon, the following resources may be helpful:
 
 [RealFaviconGenerator](https://realfavicongenerator.net/)
 
+## Resources and References
+
 For additional information about the Favicon, the following resources may be helpful:
 
 [MDN Web Docs - Favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon)
@@ -25,6 +38,8 @@ For additional information about the Favicon, the following resources may be hel
 [GeeksforGeeks - HTML Favicon](https://www.geeksforgeeks.org/html/html-favicon/)
 
 [Favicon.im](https://favicon.im/)
+
+### Favicon History
 
 For additional information about the history of Favicon, the following resources may be helpful:
 

@@ -4,4 +4,4 @@ Notes, guides, resources, and references for learning software development and c
 
 ----
 
-Copyright &copy; 2026 Brittni Watkins.
+Copyright &copy; 2025-2026 Brittni Watkins.
