@@ -16,6 +16,7 @@ Notes, guides, resources, and references for learning software development and c
 * [Computers](./computers)
 * [The Unix Shell and Shell Scripting](./unix)
 * [Git and GitHub](./git)
+* [Web Development](./web-development)
 * [Cybersecurity](./cybersecurity)
 
 ## Additional Resources
