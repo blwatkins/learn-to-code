@@ -18,6 +18,8 @@ Notes, guides, resources, and references for learning software development and c
 * [Git and GitHub](./git)
 * [Web Development](./web-development)
 * [Cybersecurity](./cybersecurity)
+* Colors
+  * [Color Palettes](./color/color-palettes)
 * Programming Languages
   * HTML and CSS
     * [HTML](./programming-languages/html-and-css/01_html)
