@@ -3,7 +3,7 @@ layout: base
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-    <header class="post-header" id="post-header">
+    <header id="post-header" class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         <div class="post-meta">
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -34,7 +34,7 @@ layout: base
 
     <div class="post-content e-content" itemprop="articleBody">
         {%- if page.toc -%}
-        <h2 id="table-of-contents">Contents</h2>
+        <h2 id="table-of-contents">Table of Contents</h2>
         {{ content | toc }}
         <hr/>
         <p><a href="#post-header">Back to top.</a></p>
