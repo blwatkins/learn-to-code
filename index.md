@@ -20,7 +20,7 @@ Notes, guides, resources, and references for learning software development and c
 * [Cybersecurity](./cybersecurity)
 * Programming Languages
   * HTML and CSS
-    * HTML - *Coming Soon!*
+    * [HTML](./programming-languages/html-and-css/01_html)
     * [CSS](./programming-languages/html-and-css/02_css)
 
 ## Additional Resources
