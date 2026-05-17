@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2026-05-07
-modified_date: 2026-05-07
+modified_date: 2026-05-17
 title: "Web Development"
 tags:
   - web development
@@ -18,3 +18,5 @@ The following guides provide an introduction to various web development topics t
 
 * [Web Applications](./web-applications)
 * [Favicon](./favicon)
+* Web Accessibility
+  * [Color Contrast](./web-accessibility/color-contrast)
