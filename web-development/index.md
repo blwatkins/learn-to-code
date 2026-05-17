@@ -18,5 +18,7 @@ The following guides provide an introduction to various web development topics t
 
 * [Web Applications](./web-applications)
 * [Favicon](./favicon)
+* [Icons](./icons)
+* [User Experience and User Interface (UX/UI)](./ux-ui)
 * Web Accessibility
   * [Color Contrast](./web-accessibility/color-contrast)
