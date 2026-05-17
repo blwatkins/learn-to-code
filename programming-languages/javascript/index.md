@@ -20,6 +20,7 @@ JavaScript can also be used for server-side development, making it a powerful to
 
 ## Guides
 
+* [Strings](./strings)
 * JavaScript Runtime Environments
   * [Node.js](./environments/node)
 * JavaScript Frameworks
