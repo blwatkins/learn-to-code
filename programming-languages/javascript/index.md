@@ -22,6 +22,7 @@ JavaScript can also be used for server-side development, making it a powerful to
 
 * JavaScript Runtime Environments
   * [Node.js](./environments/node)
+* [JavaScript Modules](./modules)
 
 ## Resources and References
 
