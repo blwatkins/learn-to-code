@@ -22,6 +22,7 @@ JavaScript can also be used for server-side development, making it a powerful to
 
 * [Strings](./strings)
 * [Error Handling](./error-handling)
+* [Asynchronous Execution](./asynchronous-execution)
 * JavaScript Runtime Environments
   * [Node.js](./environments/node)
 * JavaScript Frameworks
