@@ -26,6 +26,8 @@ JavaScript can also be used for server-side development, making it a powerful to
 * JavaScript Frameworks
   * [Express](./frameworks/express)
 * [JavaScript Modules](./modules)
+* JavaScript Packages
+  * [Nodemailer](./packages/nodemailer)
 
 ## Resources and References
 
