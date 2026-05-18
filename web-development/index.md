@@ -17,6 +17,7 @@ The following guides provide an introduction to various web development topics t
 ## Guides
 
 * [Web Applications](./web-applications)
+* [Uniform Resource Locators (URLs)](./urls)
 * [Favicon](./favicon)
 * [Icons](./icons)
 * [User Experience and User Interface (UX/UI)](./ux-ui)
