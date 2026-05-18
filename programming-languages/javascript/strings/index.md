@@ -13,4 +13,4 @@ toc: false
 
 For additional information about strings in JavaScript, the following resources may be helpful:
 
-[DEV Community - How to slice or get symbols from a unicode string with emojis in JavaScript? Lets learn how JavaScript represent strings](https://dev.to/acanimal/how-to-slice-or-get-symbols-from-a-unicode-string-with-emojis-in-javascript-lets-learn-how-javascript-represent-strings-h3a)
+[DEV Community - How to slice or get symbols from a unicode string with emojis in JavaScript? Let's learn how JavaScript represents strings](https://dev.to/acanimal/how-to-slice-or-get-symbols-from-a-unicode-string-with-emojis-in-javascript-lets-learn-how-javascript-represent-strings-h3a)
