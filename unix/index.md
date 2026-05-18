@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2026-05-04
-modified_date: 2026-05-06
+modified_date: 2026-05-17
 title: "The Unix Shell and Shell Scripting"
 tags:
   - unix
