@@ -22,6 +22,8 @@ Every page on the web is rendered in your browser using HTML, and it works along
 
 ## Guides
 
+* [HTML Entities](./html-entities)
+* [HTML Character Sets](./html-character-sets)
 * [HTML Semantic Elements](./semantic-elements)
 
 ## Resources and References
