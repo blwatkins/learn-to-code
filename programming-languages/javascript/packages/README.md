@@ -12,3 +12,4 @@ This guide is not an exhaustive list.
 * [mysql2](mysql2/README.md#javascript---mysql2)
 * [nodemailer](./nodemailer)
 * [sequelize](sequelize/README.md#javascript---sequelize)
+* [vitest](./vitest)

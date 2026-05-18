@@ -32,6 +32,7 @@ JavaScript can also be used for server-side development, making it a powerful to
   * [`@dotenvx/dotenvx`](./packages/dotenvx)
   * [`jest`](./packages/jest)
   * [`nodemailer`](./packages/nodemailer)
+  * [`vitest`](./packages/vitest)
 
 ## Resources and References
 
