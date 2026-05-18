@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2026-05-04
-modified_date: 2026-05-06
+modified_date: 2026-05-17
 title: "The Unix Shell and Shell Scripting"
 tags:
   - unix
@@ -33,6 +33,7 @@ This guide is not an exhaustive list.
 * [Unix Shell Editors](./shell-editors)
   * [vi](./shell-editors/vi)
 * [Unix Shell Scripts](./shell-scripts)
+* [`cron`](./cron)
 
 ## Resources and References
 

@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2025-05-13
-modified_date: 2026-05-06
+modified_date: 2026-05-17
 title: "Git"
 tags:
   - git
@@ -20,6 +20,7 @@ It is a powerful tool that allows us to track changes, collaborate with others, 
 * [Git Installation](01_getting-started/01_installation)
 * [GitHub](./github)
 * [`git config`](./git-config)
+* [`git branch` and `git checkout`](./git-branch)
 * [`git tag`](./git-tag)
 
 ## Resources and References
