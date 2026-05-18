@@ -3,7 +3,7 @@ layout: post
 author:
   - Brittni Watkins
 date: 2026-05-17
-modified_date: 2026-05-17
+modified_date: 2026-05-18
 title: "JavaScript"
 tags:
   - javascript
@@ -30,10 +30,14 @@ JavaScript can also be used for server-side development, making it a powerful to
 * [JavaScript Modules](./modules)
 * JavaScript Packages
   * [`@dotenvx/dotenvx`](./packages/dotenvx)
+  * [`jest`](./packages/jest)
   * [`nodemailer`](./packages/nodemailer)
+  * [`vitest`](./packages/vitest)
 
 ## Resources and References
 
 For additional information about JavaScript, the following resources may be helpful:
 
 [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[YouTube: Brittni Builds - *Learning - Web Development: JavaScript* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzMo6iZ6PGNaBywgo4uj_lri)
