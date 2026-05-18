@@ -9,4 +9,5 @@ This guide is not an exhaustive list.
 * [@dotenvx/dotenvx](./dotenvx)
 * [eslint](eslint/README.md#javascript---eslint)
 * [mysql2](mysql2/README.md#javascript---mysql2)
+* [nodemailer](./nodemailer)
 * [sequelize](sequelize/README.md#javascript---sequelize)

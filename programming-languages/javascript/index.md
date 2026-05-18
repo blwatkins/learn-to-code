@@ -29,8 +29,8 @@ JavaScript can also be used for server-side development, making it a powerful to
   * [Express](./frameworks/express)
 * [JavaScript Modules](./modules)
 * JavaScript Packages
-  * [Dotenvx](./packages/dotenvx)
-  * [Nodemailer](./packages/nodemailer)
+  * [`@dotenvx/dotenvx`](./packages/dotenvx)
+  * [`nodemailer`](./packages/nodemailer)
 
 ## Resources and References
 
