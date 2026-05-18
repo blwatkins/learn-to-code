@@ -40,4 +40,4 @@ For additional information about JavaScript, the following resources may be help
 
 [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[YouTube: Brittni Builds - *Learning - Web Development: JavaScript* Playist](https://youtube.com/playlist?list=PLTk8vQ-hBSzMo6iZ6PGNaBywgo4uj_lri)
+[YouTube: Brittni Builds - *Learning - Web Development: JavaScript* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzMo6iZ6PGNaBywgo4uj_lri)
