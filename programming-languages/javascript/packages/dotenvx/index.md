@@ -8,7 +8,7 @@ title: "JavaScript Packages - @dotenvx/dotenvx"
 tags:
   - javascript
   - packages
-  - nodemailer
+  - dotenvx
 toc: false
 ---
 
