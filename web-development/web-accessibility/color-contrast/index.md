@@ -16,4 +16,4 @@ toc: false
 
 For additional information about color contrast and web accessibility, the following resources may be helpful:
 
-[WebAIM - Constrast Checker](https://webaim.org/resources/contrastchecker/)
+[WebAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/)
