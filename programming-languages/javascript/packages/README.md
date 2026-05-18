@@ -6,7 +6,7 @@ The following guides provide an introduction to various JavaScript packages, whi
 This guide is not an exhaustive list.
 
 * [dotenv](dotenv/README.md#javascript---dotenv)
-* [@dotenvx/dotenvx](dotenvx/README.md#javascript---dotenvx)
+* [@dotenvx/dotenvx](./dotenvx)
 * [eslint](eslint/README.md#javascript---eslint)
 * [mysql2](mysql2/README.md#javascript---mysql2)
 * [sequelize](sequelize/README.md#javascript---sequelize)
