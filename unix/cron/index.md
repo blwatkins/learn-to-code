@@ -17,4 +17,4 @@ For additional information about cron, the following resources may be helpful:
 
 [Cronitor - crontab guru](https://crontab.guru/)
 
-[Cronitor Guides - Cron Jobs: The Complete Guide](https://cronitor.io/guides/cron-jobs?utm_source=crontabguru&utm_campaign=cron_reference)
+[Cronitor Guides - Cron Jobs: The Complete Guide](https://cronitor.io/guides/cron-jobs)
