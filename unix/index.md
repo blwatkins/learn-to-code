@@ -33,6 +33,7 @@ This guide is not an exhaustive list.
 * [Unix Shell Editors](./shell-editors)
   * [vi](./shell-editors/vi)
 * [Unix Shell Scripts](./shell-scripts)
+* [`cron`](./cron)
 
 ## Resources and References
 
