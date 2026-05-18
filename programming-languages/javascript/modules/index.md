@@ -8,8 +8,8 @@ title: "JavaScript Modules"
 tags:
   - javascript
   - modules
-  - ESModules
-  - CommonJS
+  - esmodules
+  - commonjs
   - web development
 toc: false
 ---
