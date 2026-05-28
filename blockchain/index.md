@@ -18,6 +18,7 @@ It is designed to be secure, transparent, and tamper-resistant, making it an ide
 ## Guides
 
 * [Cryptocurrency](./cryptocurrency)
+* [Cryptocurrency Wallets](./wallets)
 
 ## Resources and References
 

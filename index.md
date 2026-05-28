@@ -34,6 +34,7 @@ Notes, guides, resources, and references for learning software development and c
 #### Blockchain
 * [Blockchain](./blockchain)
   * [Cryptocurrency](./blockchain/cryptocurrency)
+  * [Cryptocurrency Wallets](./blockchain/wallets)
 
 ### Programming Languages
 * HTML and CSS
