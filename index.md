@@ -35,6 +35,7 @@ Notes, guides, resources, and references for learning software development and c
 * [Blockchain](./blockchain)
 * [Cryptocurrency](./blockchain/cryptocurrency)
 * [Cryptocurrency Wallets](./blockchain/wallets)
+  * [MetaMask](./blockchain/wallets/wallet-providers/metamask)
 * EVM Blockchains
   * [Ethereum](./blockchain/evm-blockchains/ethereum)
 
