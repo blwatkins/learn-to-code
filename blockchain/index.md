@@ -17,11 +17,19 @@ It is designed to be secure, transparent, and tamper-resistant, making it an ide
 
 ## Guides
 
+* [Cryptocurrency](./cryptocurrency)
+
 ## Resources and References
 
 For additional information about blockchain, the following resources may be helpful:
 
+[Coinbase Learn](https://www.coinbase.com/learn)
+
+[CoinGecko Learn](https://www.coingecko.com/learn)
+
 [Alchemy University](https://www.alchemy.com/university)
+
+[Coinbase Learn - What is a blockchain?](https://www.coinbase.com/learn/crypto-basics/what-is-a-blockchain)
 
 [Codecademy Docs - Blockchain](https://www.codecademy.com/resources/docs/blockchain)
 
