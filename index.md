@@ -33,8 +33,10 @@ Notes, guides, resources, and references for learning software development and c
 
 #### Blockchain
 * [Blockchain](./blockchain)
-  * [Cryptocurrency](./blockchain/cryptocurrency)
-  * [Cryptocurrency Wallets](./blockchain/wallets)
+* [Cryptocurrency](./blockchain/cryptocurrency)
+* [Cryptocurrency Wallets](./blockchain/wallets)
+* EVM Blockchains
+  * [Ethereum](./blockchain/evm-blockchains/ethereum)
 
 ### Programming Languages
 * HTML and CSS

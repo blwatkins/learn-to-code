@@ -19,6 +19,8 @@ It is designed to be secure, transparent, and tamper-resistant, making it an ide
 
 * [Cryptocurrency](./cryptocurrency)
 * [Cryptocurrency Wallets](./wallets)
+* EVM Blockchains
+  * [Ethereum](./evm-blockchains/ethereum)
 
 ## Resources and References
 
