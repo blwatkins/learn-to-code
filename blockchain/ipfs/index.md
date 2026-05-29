@@ -10,7 +10,7 @@ tags:
   - nfts
   - ipfs
   - interplanetary file system
-toc: true
+toc: false
 ---
 
 For additional information about the InterPlanetary File System (IPFS), the following resources may be helpful:
