@@ -43,7 +43,7 @@ Notes, guides, resources, and references for learning software development and c
 * [Non-Fungible Tokens (NFTs)](./blockchain/nfts)
 * [Web3](./blockchain/web3)
 * [Smart Contracts](./blockchain/smart-contracts)
-* [Interplanetary File System (IPFS)](./blockchain/ipfs)
+* [InterPlanetary File System (IPFS)](./blockchain/ipfs)
 
 ### Programming Languages
 * HTML and CSS

@@ -27,7 +27,7 @@ It is designed to be secure, transparent, and tamper-resistant, making it an ide
 * [Non-Fungible Tokens (NFTs)](./nfts)
 * [Web3](./web3)
 * [Smart Contracts](./smart-contracts)
-* [Interplanetary File System (IPFS)](./ipfs)
+* [InterPlanetary File System (IPFS)](./ipfs)
 
 ## Resources and References
 
