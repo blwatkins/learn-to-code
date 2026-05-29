@@ -38,7 +38,8 @@ Notes, guides, resources, and references for learning software development and c
   * [MetaMask](./blockchain/wallets/wallet-providers/metamask)
 * EVM Blockchains
   * [Ethereum](./blockchain/evm-blockchains/ethereum)
-* [NFTs](./blockchain/nfts) 
+* [Non-Fungible Tokens (NFTs)](./blockchain/nfts)
+* [Interplanetary File System (IPFS)](./blockchain/ipfs)
 
 ### Programming Languages
 * HTML and CSS
