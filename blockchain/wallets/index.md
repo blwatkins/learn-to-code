@@ -19,6 +19,8 @@ Cryptocurrency wallets do not store the cryptocurrency itself, but rather the pr
 
 ## Guides
 
+* [MetaMask](./wallet-providers/metamask)
+
 ## Resources and References
 
 For additional information about cryptocurrency wallets, the following resources may be helpful:
