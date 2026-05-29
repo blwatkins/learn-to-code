@@ -38,6 +38,7 @@ Notes, guides, resources, and references for learning software development and c
   * [MetaMask](./blockchain/wallets/wallet-providers/metamask)
 * EVM Blockchains
   * [Ethereum](./blockchain/evm-blockchains/ethereum)
+  * [Base](./blockchain/evm-blockchains/base)
   * [Polygon](./blockchain/evm-blockchains/polygon)
 * [Non-Fungible Tokens (NFTs)](./blockchain/nfts)
 * [Web3](./blockchain/web3)
