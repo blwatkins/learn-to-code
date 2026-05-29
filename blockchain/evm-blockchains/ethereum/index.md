@@ -20,6 +20,6 @@ For additional information about Ethereum, the following resources may be helpfu
 
 [Ethereum Gas Tracker](https://etherscan.io/gastracker)
 
-[Coinbase Learn -What is Ethereum?](https://www.coinbase.com/learn/crypto-basics/what-is-ethereum)
+[Coinbase Learn - What is Ethereum?](https://www.coinbase.com/learn/crypto-basics/what-is-ethereum)
 
 [YouTube: Brittni Builds - *Learning - Blockchain: Ethereum* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzNS0TXRIdK9vxCdbMJoqg5V)
