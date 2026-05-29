@@ -48,6 +48,7 @@ Notes, guides, resources, and references for learning software development and c
   * [HTML](./programming-languages/html-and-css/01_html)
   * [CSS](./programming-languages/html-and-css/02_css)
 * [JavaScript](./programming-languages/javascript)
+* [Solidity](./programming-languages/solidity)
 
 ## Additional Resources
 

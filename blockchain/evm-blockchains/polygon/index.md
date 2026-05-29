@@ -7,7 +7,7 @@ modified_date: 2026-05-28
 title: "Polygon"
 tags:
   - blockchain
-  - evm-blockchain
+  - evm blockchain
   - polygon
 toc: false
 ---
