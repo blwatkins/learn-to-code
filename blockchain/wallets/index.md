@@ -25,4 +25,6 @@ For additional information about cryptocurrency wallets, the following resources
 
 [Coinbase Learn - What is a crypto wallet?](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet)
 
+[OpenSea Learn - What is a crypto wallet?](https://opensea.io/learn/token/what-is-crypto-wallet)
+
 [YouTube: Brittni Builds - *Learning - Blockchain: Cryptocurrency Wallets* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzODePyyN95vSx0i1AaMg1br)
