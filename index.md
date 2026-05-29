@@ -40,6 +40,7 @@ Notes, guides, resources, and references for learning software development and c
   * [Ethereum](./blockchain/evm-blockchains/ethereum)
   * [Polygon](./blockchain/evm-blockchains/polygon)
 * [Non-Fungible Tokens (NFTs)](./blockchain/nfts)
+* [Smart Contracts](./blockchain/smart-contracts)
 * [Interplanetary File System (IPFS)](./blockchain/ipfs)
 
 ### Programming Languages
