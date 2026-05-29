@@ -38,6 +38,7 @@ Notes, guides, resources, and references for learning software development and c
   * [MetaMask](./blockchain/wallets/wallet-providers/metamask)
 * EVM Blockchains
   * [Ethereum](./blockchain/evm-blockchains/ethereum)
+* [NFTs](./blockchain/nfts) 
 
 ### Programming Languages
 * HTML and CSS

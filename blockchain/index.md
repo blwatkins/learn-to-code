@@ -22,6 +22,7 @@ It is designed to be secure, transparent, and tamper-resistant, making it an ide
   * [MetaMask](./wallets/wallet-providers/metamask)
 * EVM Blockchains
   * [Ethereum](./evm-blockchains/ethereum)
+* [NFTs](./nfts)
 
 ## Resources and References
 
