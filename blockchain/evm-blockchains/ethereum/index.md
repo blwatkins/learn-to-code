@@ -7,6 +7,7 @@ modified_date: 2026-05-28
 title: "Ethereum"
 tags:
   - blockchain
+  - evm-blockchain
   - ethereum
 toc: false
 ---
