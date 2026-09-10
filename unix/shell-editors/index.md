@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2025-06-10
-modified_date: 2026-05-05
+modified_date: 2026-09-10
 title: "Unix Shell Editors"
 tags:
   - unix
@@ -13,6 +13,7 @@ tags:
   - z shell
   - editors
 toc: false
+read_time: false
 ---
 
 The following guides provide an introduction to Unix shell editors.
@@ -22,12 +23,8 @@ This guide is not an exhaustive list of Unix shell editors.
 
 For additional information about Unix shell editors, the following resources may be helpful:
 
-[GNU nano](https://www.nano-editor.org/)
-
-[Wikipedia - GNU nano](https://en.wikipedia.org/wiki/GNU_nano)
-
-[Vim](https://www.vim.org/)
-
-[Wikipedia - Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor))
-
-[Tutorials Point - Vim Tutorial](https://www.tutorialspoint.com/vim/index.htm)
+- [GNU nano](https://www.nano-editor.org/)
+- [Wikipedia - GNU nano](https://en.wikipedia.org/wiki/GNU_nano)
+- [Vim](https://www.vim.org/)
+- [Wikipedia - Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor))
+- [Tutorials Point - Vim Tutorial](https://www.tutorialspoint.com/vim/index.htm)

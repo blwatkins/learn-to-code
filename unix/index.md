@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2026-05-04
-modified_date: 2026-05-17
+modified_date: 2026-09-10
 title: "The Unix Shell and Shell Scripting"
 tags:
   - unix
@@ -12,6 +12,7 @@ tags:
   - bash
   - z shell
 toc: true
+read_time: false
 ---
 
 ## Introduction
@@ -39,34 +40,19 @@ This guide is not an exhaustive list.
 
 For additional information about Unix, the following resources may be helpful:
 
-[W3Schools - What is Command Line Interface (CLI)?](https://www.w3schools.com/whatis/whatis_cli.asp)
-
-[AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
-
-[Codecademy Docs - Unix](https://www.codecademy.com/resources/docs/general/unix)
-
-[Wikipedia - Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
-
-[Wikipedia - Shell script](https://en.wikipedia.org/wiki/Shell_script)
-
-[W3Schools - Bash Tutorial](https://www.w3schools.com/bash/index.php)
-
-[GeeksforGeeks - Introduction to UNIX System](https://www.geeksforgeeks.org/linux-unix/introduction-to-unix-system/)
-
-[GeeksforGeeks - Unix Vs Linux](https://www.geeksforgeeks.org/linux-unix/linux-vs-unix/)
-
-[Tutorials Point - Linux/Unix Tutorial](https://www.tutorialspoint.com/unix/index.htm)
-
-[freeCodeCamp - Linux Command Line Tutorial – How to Use Common Terminal Commands](https://www.freecodecamp.org/news/linux-command-line-tutorial/)
-
-[Codecademy Docs - Terminal](https://www.codecademy.com/resources/docs/general/terminal)
-
-[YouTube: HackerSploit - *Shell Scripting* Playlist](https://youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT&si=OCYrhAHbFsZm62F7)
-
-[YouTube: edureka! - *Linux Administration Tutorial Videos* Playlist](https://youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik&si=qBmtx_wK6elQOzUY)
-
-[YouTube: Brittni Builds - *Learning - Unix Shell, Shell Scripting, and Linux* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzOAF-cs3oDmS6itsI7BoX7X&si=v68uKwS4Hnm62cdF)
-
-[Codecademy - Bash/Shell courses](https://www.codecademy.com/catalog/language/bash)
-
-[DataCamp - Shell courses](https://www.datacamp.com/category/shell)
+- [W3Schools - What is Command Line Interface (CLI)?](https://www.w3schools.com/whatis/whatis_cli.asp)
+- [AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
+- [Codecademy Docs - Unix](https://www.codecademy.com/resources/docs/general/unix)
+- [Wikipedia - Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+- [Wikipedia - Shell script](https://en.wikipedia.org/wiki/Shell_script)
+- [W3Schools - Bash Tutorial](https://www.w3schools.com/bash/index.php)
+- [GeeksforGeeks - Introduction to UNIX System](https://www.geeksforgeeks.org/linux-unix/introduction-to-unix-system/)
+- [GeeksforGeeks - Unix Vs Linux](https://www.geeksforgeeks.org/linux-unix/linux-vs-unix/)
+- [Tutorials Point - Linux/Unix Tutorial](https://www.tutorialspoint.com/unix/index.htm)
+- [freeCodeCamp - Linux Command Line Tutorial – How to Use Common Terminal Commands](https://www.freecodecamp.org/news/linux-command-line-tutorial/)
+- [Codecademy Docs - Terminal](https://www.codecademy.com/resources/docs/general/terminal)
+- [YouTube: HackerSploit - *Shell Scripting* Playlist](https://youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT&si=OCYrhAHbFsZm62F7)
+- [YouTube: edureka! - *Linux Administration Tutorial Videos* Playlist](https://youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik&si=qBmtx_wK6elQOzUY)
+- [YouTube: Brittni Watkins - *Learning - Unix Shell, Shell Scripting, and Linux* Playlist](https://youtube.com/playlist?list=PLTk8vQ-hBSzOAF-cs3oDmS6itsI7BoX7X&si=v68uKwS4Hnm62cdF)
+- [Codecademy - Bash/Shell courses](https://www.codecademy.com/catalog/language/bash)
+- [DataCamp - Shell courses](https://www.datacamp.com/category/shell)

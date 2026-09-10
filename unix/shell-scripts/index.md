@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2025-05-22
-modified_date: 2026-05-05
+modified_date: 2026-09-10
 title: "Unix Shell Scripts"
 tags:
   - unix
@@ -12,6 +12,7 @@ tags:
   - z shell
   - scripts
 toc: true
+read_time: true
 ---
 
 ## Introduction
@@ -52,8 +53,6 @@ pwd
 
 For additional information about shell scripts, the following resources may be helpful:
 
-[GeeksForGeeks: Creating and Running bash and zsh Scripts](https://www.geeksforgeeks.org/creating-and-running-bash-and-zsh-scripts/)
-
-[Baeldung: How to Use Command Line Arguments in a Bash Script](https://www.baeldung.com/linux/use-command-line-arguments-in-bash-script)
-
-[Red Hat: Adding arguments and options to your Bash scripts](https://www.redhat.com/sysadmin/arguments-options-bash-scripts)
+- [GeeksForGeeks: Creating and Running bash and zsh Scripts](https://www.geeksforgeeks.org/creating-and-running-bash-and-zsh-scripts/)
+- [Baeldung: How to Use Command Line Arguments in a Bash Script](https://www.baeldung.com/linux/use-command-line-arguments-in-bash-script)
+- [Red Hat: Adding arguments and options to your Bash scripts](https://www.redhat.com/sysadmin/arguments-options-bash-scripts)

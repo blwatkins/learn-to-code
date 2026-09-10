@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2025-05-14
-modified_date: 2026-05-05
+modified_date: 2026-09-10
 title: "Useful Unix Commands"
 tags:
   - unix
@@ -13,6 +13,7 @@ tags:
   - bash
   - z shell
 toc: true
+read_time: true
 ---
 
 ## Introduction
@@ -363,20 +364,12 @@ exit
 
 For additional information about Unix shell commands, the following resources may be helpful:
 
-[explainshell](https://explainshell.com/)
-
-[GeeksforGeeks - Essential Unix Commands](https://www.geeksforgeeks.org/linux-unix/essential-linuxunix-commands/)
-
-[freeCodeCamp - The Linux Command Handbook – Learn Linux Commands for Beginners](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
-
-[Tutorials Point - Linux Commands Reference](https://www.tutorialspoint.com/unix_commands/index.htm)
-
-[SitePoint - 15 Little-Known Unix Commands](https://www.sitepoint.com/15-little-known-unix-commands/)
-
-[Red Hat Blog - Linux file permissions explained](https://www.redhat.com/en/blog/linux-file-permissions-explained)
-
-[W3Schools - What is Command Line Interface (CLI)?](https://www.w3schools.com/whatis/whatis_cli.asp)
-
-[AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
-
-[Wikipedia - Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+- [explainshell](https://explainshell.com/)
+- [GeeksforGeeks - Essential Unix Commands](https://www.geeksforgeeks.org/linux-unix/essential-linuxunix-commands/)
+- [freeCodeCamp - The Linux Command Handbook – Learn Linux Commands for Beginners](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+- [Tutorials Point - Linux Commands Reference](https://www.tutorialspoint.com/unix_commands/index.htm)
+- [SitePoint - 15 Little-Known Unix Commands](https://www.sitepoint.com/15-little-known-unix-commands/)
+- [Red Hat Blog - Linux file permissions explained](https://www.redhat.com/en/blog/linux-file-permissions-explained)
+- [W3Schools - What is Command Line Interface (CLI)?](https://www.w3schools.com/whatis/whatis_cli.asp)
+- [AWS - What is a CLI?](https://aws.amazon.com/what-is/cli/)
+- [Wikipedia - Unix shell](https://en.wikipedia.org/wiki/Unix_shell)

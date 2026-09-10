@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2025-06-10
-modified_date: 2026-05-05
+modified_date: 2026-09-10
 title: "vi"
 tags:
   - unix
@@ -13,6 +13,7 @@ tags:
   - z shell
   - vi
 toc: true
+read_time: true
 ---
 
 ## Introduction
@@ -97,10 +98,7 @@ To execute this command, type `:wq` while in command mode, then press `ENTER`.
 
 For additional information about `vi`, the following resources may be helpful:
 
-[Wikipedia - vi (text editor)](https://en.wikipedia.org/wiki/Vi_(text_editor))
-
-[Red Hat - An introduction to the vi editor](https://www.redhat.com/en/blog/introduction-vi-editor)
-
-[GeeksforGeeks - vi Editor in Linux](https://www.geeksforgeeks.org/linux-unix/vi-editor-unix/)
-
-[Tutorials Point - Unix/Linux - The vi Editor Tutorial](https://www.tutorialspoint.com/unix/unix-vi-editor.htm)
+- [Wikipedia - vi (text editor)](https://en.wikipedia.org/wiki/Vi_(text_editor))
+- [Red Hat - An introduction to the vi editor](https://www.redhat.com/en/blog/introduction-vi-editor)
+- [GeeksforGeeks - vi Editor in Linux](https://www.geeksforgeeks.org/linux-unix/vi-editor-unix/)
+- [Tutorials Point - Unix/Linux - The vi Editor Tutorial](https://www.tutorialspoint.com/unix/unix-vi-editor.htm)

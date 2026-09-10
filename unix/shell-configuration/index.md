@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2025-05-21
-modified_date: 2026-05-05
+modified_date: 2026-09-10
 title: "Unix Shell Configuration"
 tags:
   - unix
@@ -15,6 +15,7 @@ tags:
   - z shell
   - environment variables
 toc: true
+read_time: true
 ---
 
 ## Introduction
@@ -97,22 +98,16 @@ Additional information about `vi` can be found in the [vi guide](../shell-editor
 
 For additional information about command line editors, the following resources may be helpful:
 
-[Wikipedia - GNU nano](https://en.wikipedia.org/wiki/GNU_nano)
-
-[Wikipedia - Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor))
+- [Wikipedia - GNU nano](https://en.wikipedia.org/wiki/GNU_nano)
+- [Wikipedia - Vim (text editor)](https://en.wikipedia.org/wiki/Vim_(text_editor))
 
 ## Resources and References
 
 For additional information about Unix shell configuration, the following resources may be helpful:
 
-[Red Hat Blog - How to customize Linux user environments](https://www.redhat.com/en/blog/customize-user-environments)
-
-[Red Hat Blog - Linux environment variable tips and tricks](https://www.redhat.com/en/blog/linux-environment-variables)
-
-[GeeksforGeeks - bashrc vs. bash_profile: What Is the Difference?](https://www.geeksforgeeks.org/linux-unix/bashrc-vs-bash_profile-what-is-the-difference/)
-
-[Tutorials Point - Shell Initialization Files and User Profiles in Linux](https://www.tutorialspoint.com/article/shell-initialization-files-and-user-profiles-in-linux)
-
-[Tutorials Point - Difference Between .bashrc, .bash-profile, and .profile](https://www.tutorialspoint.com/article/difference-between-bashrc-bash-profile-and-profile)
-
-[Tutorials Point - Unix / Linux - Environment](https://www.tutorialspoint.com/unix/unix-environment.htm)
+- [Red Hat Blog - How to customize Linux user environments](https://www.redhat.com/en/blog/customize-user-environments)
+- [Red Hat Blog - Linux environment variable tips and tricks](https://www.redhat.com/en/blog/linux-environment-variables)
+- [GeeksforGeeks - bashrc vs. bash_profile: What Is the Difference?](https://www.geeksforgeeks.org/linux-unix/bashrc-vs-bash_profile-what-is-the-difference/)
+- [Tutorials Point - Shell Initialization Files and User Profiles in Linux](https://www.tutorialspoint.com/article/shell-initialization-files-and-user-profiles-in-linux)
+- [Tutorials Point - Difference Between .bashrc, .bash-profile, and .profile](https://www.tutorialspoint.com/article/difference-between-bashrc-bash-profile-and-profile)
+- [Tutorials Point - Unix / Linux - Environment](https://www.tutorialspoint.com/unix/unix-environment.htm)
