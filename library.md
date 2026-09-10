@@ -1,15 +1,16 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2026-05-05
-modified_date: 2026-05-05
+modified_date: 2026-09-10
 title: "Brittni's Library"
 tags:
   - tutorials
   - resources
   - books
 toc: true
+read_time: false
 ---
 
 The following is a list of books that I have found to be helpful in my learning journey as a programmer and creative coder.

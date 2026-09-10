@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2026-03-18
-modified_date: 2026-03-18
+modified_date: 2026-09-10
 title: "What is Code? An Introduction to Programming"
 tags:
   - code
@@ -11,6 +11,7 @@ tags:
   - hello world
   - programming languages
 toc: true
+read_time: true
 ---
 
 ## What is Code?
@@ -37,9 +38,8 @@ It is often used as a first program for beginners to learn the basic syntax of a
 
 For additional information about Hello, World! programs, the following resources may be helpful:
 
-[Wikipedia - "Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
-
-[CodeInterview - The History of Hello World: A Brief Overview](https://codeinterview.io/blog/the-history-of-hello-world-a-brief-overview/)
+- [Wikipedia - "Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
+- [CodeInterview - The History of Hello World: A Brief Overview](https://codeinterview.io/blog/the-history-of-hello-world-a-brief-overview/)
 
 ### JavaScript
 
@@ -80,9 +80,8 @@ It may be that a project could be successfully completed using multiple programm
 
 For additional information on how to select a programming language, the following resources may be helpful:
 
-[GeeksforGeeks - How to Choose a Programming Language For a Project?](https://www.geeksforgeeks.org/blogs/how-to-choose-a-programming-language-for-a-project/)
-
-[freeCodeCamp - How to Choose the Best Programming Languages, Libraries, and Patterns](https://www.freecodecamp.org/news/how-to-choose-the-best-programming-languages-libraries-and-patterns)
+- [GeeksforGeeks - How to Choose a Programming Language For a Project?](https://www.geeksforgeeks.org/blogs/how-to-choose-a-programming-language-for-a-project/)
+- [freeCodeCamp - How to Choose the Best Programming Languages, Libraries, and Patterns](https://www.freecodecamp.org/news/how-to-choose-the-best-programming-languages-libraries-and-patterns)
 
 ## Conclusion
 
