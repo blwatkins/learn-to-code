@@ -1,5 +1,5 @@
 ---
-title: "Learn to Code"
+title: "Learn to Code with Brittni"
 layout: page
 ---
 
