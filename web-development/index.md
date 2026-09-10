@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2026-05-07
-modified_date: 2026-05-17
+modified_date: 2026-09-10
 title: "Web Development"
 tags:
   - web development
 toc: true
+read_time: false
 ---
 
 ## Introduction

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: custom-post
 author:
   - Brittni Watkins
 date: 2026-05-17
-modified_date: 2026-05-17
+modified_date: 2026-09-10
 title: "Web Accessibility - Color Contrast"
 tags:
   - colors
@@ -12,8 +12,9 @@ tags:
   - web accessibility
   - color contrast
 toc: false
+read_time: false
 ---
 
 For additional information about color contrast and web accessibility, the following resources may be helpful:
 
-[WebAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [WebAIM - Contrast Checker](https://webaim.org/resources/contrastchecker/)
